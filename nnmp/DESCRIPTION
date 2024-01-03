@@ -1,0 +1,14 @@
+Package: nnmp
+Type: Package
+Title: Nearest-neighbor mixture processes
+Version: 0.1.0
+Date: 2024-01-03
+Author: Xiaotian Zheng
+Maintainer: Xiaotian Zheng <xiaotianzheng42@gmail.com>
+Description: Fit nearest-neighbor mixture models for univariate non-Gaussian geospatial data. 
+             Reference: Zheng, X., Kottas, A., and Sansó, B. (2023) < DOI: https://doi.org/10.1214/23-BA1405 >.
+License: GPL (>= 3)
+Encoding: UTF-8
+RoxygenNote: 7.2.3
+Imports: stats, Rcpp (>= 1.0.9), mvtnorm, RcppTN
+LinkingTo: Rcpp, RcppArmadillo, RcppDist, RcppTN

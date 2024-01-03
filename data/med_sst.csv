@@ -1,0 +1,1967 @@
+lon,lat,sst,area,par_label
+-5.2,35.9,17.1,Westernmost,1
+-5.2,36,16.2,Westernmost,1
+-5.2,36.1,17,Westernmost,1
+-5.1,35.9,17.1,Westernmost,1
+-5.1,36,16.6,Westernmost,1
+-5,36,16,Westernmost,1
+-4.9,36,16.85,Westernmost,1
+-4.9,36.1,16,Westernmost,1
+-4.8,36,15,Westernmost,1
+-4.8,36.1,15.6,Westernmost,1
+-4.7,36,15.6,Westernmost,1
+-4.7,36.1,16.3,Westernmost,1
+-4.6,36,16,Westernmost,1
+-4.6,36.1,16.1,Westernmost,1
+-4.5,36.2,17,Westernmost,1
+-4.4,35.5,16.5,Westernmost,1
+-4.4,36.1,16.5,Westernmost,1
+-4.3,36.1,18,Westernmost,1
+-4.3,36.2,15.9,Westernmost,1
+-4.2,36.1,16.3,Westernmost,1
+-4.2,36.2,17,Westernmost,1
+-4.1,36.1,16.8,Westernmost,1
+-4.1,36.2,16.5,Westernmost,1
+-4,36.1,17.8,Westernmost,1
+-4,36.3,16,Westernmost,1
+-3.9,36.1,16,Westernmost,1
+-3.9,36.2,16.7,Westernmost,1
+-3.9,36.3,15.9,Westernmost,1
+-3.8,36.3,16,Westernmost,1
+-3.7,36.2,17,Westernmost,1
+-3.7,36.3,15.6,Westernmost,1
+-3.6,35.8,16.6,Westernmost,1
+-3.6,36.4,14.2,Westernmost,1
+-3.5,36.1,15.1,Westernmost,1
+-3.5,36.2,15,Westernmost,1
+-3.4,36.1,16,Westernmost,1
+-3.4,36.2,16.5,Westernmost,1
+-3.4,36.3,17,Westernmost,1
+-3.4,36.4,17,Westernmost,1
+-3.3,36.2,16.1,Westernmost,1
+-3.3,36.3,16.65,Westernmost,1
+-3.2,36.2,17,Westernmost,1
+-3.1,36.1,18,Westernmost,1
+-3.1,36.2,16,Westernmost,1
+-3,36.3,15.3,Westernmost,1
+-3,36.4,15.75,Westernmost,1
+-2.9,36.2,16.4,Westernmost,1
+-2.9,36.4,17,Westernmost,1
+-2.8,36.2,18,Westernmost,1
+-2.8,36.3,15.4,Westernmost,1
+-2.8,36.4,17,Westernmost,1
+-2.7,36.2,16,Westernmost,1
+-2.7,36.4,16,Westernmost,1
+-2.6,36.2,16.65,Westernmost,1
+-2.6,36.5,17,Westernmost,1
+-2.5,36.3,16,Westernmost,1
+-2.5,36.4,16.6,Westernmost,1
+-2.4,36.3,17.7,Westernmost,1
+-2.4,36.5,16.15,Westernmost,1
+-2.3,36.2,16.7,Westernmost,1
+-2.3,36.3,16.35,Westernmost,1
+-2.3,36.4,17,Westernmost,1
+-2.2,36.2,15,Westernmost,1
+-2.2,36.4,16,Westernmost,1
+-2.1,36.4,15,Westernmost,1
+-2.1,36.6,17,Westernmost,1
+-2,36.2,15.7,Westernmost,1
+-2,36.4,16.6,Westernmost,1
+-2,36.5,15.55,Westernmost,1
+-2,36.6,15.9,Westernmost,1
+-1.9,35.5,18,Westernmost,1
+-1.9,36.4,15.1,Westernmost,1
+-1.9,36.6,16,Westernmost,1
+-1.9,36.7,17,Westernmost,1
+-1.9,36.8,17,Westernmost,1
+-1.8,36.5,17,Westernmost,1
+-1.8,36.7,16,Westernmost,1
+-1.7,36.6,16.2,Westernmost,1
+-1.7,36.7,18,Westernmost,1
+-1.7,36.9,17,Westernmost,1
+-1.6,36.3,16.6,Westernmost,1
+-1.6,36.4,15,Westernmost,1
+-1.6,36.5,16,Westernmost,1
+-1.6,37,16.5,Westernmost,1
+-1.4,36.4,18,Westernmost,1
+-1.4,36.8,16,Westernmost,1
+-1.3,36.6,16,Westernmost,1
+-1.3,37,14.75,Westernmost,1
+-1.2,36.5,16.75,Westernmost,1
+-1.2,36.8,16,Westernmost,1
+-1.2,36.9,16.15,Westernmost,1
+-1.1,36.5,15.5,Westernmost,1
+-1.1,36.6,16,Westernmost,1
+-1.1,36.7,17,Westernmost,1
+-1.1,36.8,16,Westernmost,1
+-1,36.5,15,Westernmost,1
+-1,36.6,16,Westernmost,1
+-0.9,36.6,16.2,Westernmost,1
+-0.9,37,16.1,Westernmost,1
+-0.9,37.1,16.5,Westernmost,1
+-0.8,36.5,17,Westernmost,1
+-0.8,36.7,17.549999999999997,Westernmost,1
+-0.8,37.3,18,Westernmost,1
+-0.7,36.5,16,Westernmost,1
+-0.7,36.8,18,Westernmost,1
+-0.7,37.5,14.8,Westernmost,1
+-0.6,36.5,17,Westernmost,1
+-0.6,36.6,15.6,Westernmost,1
+-0.6,36.8,16.5,Westernmost,1
+-0.6,37.2,15.5,Westernmost,1
+-0.6,37.5,16,Westernmost,1
+-0.5,36.5,16,Westernmost,1
+-0.5,36.6,15,Westernmost,1
+-0.5,36.9,17,Westernmost,1
+-0.5,37.6,16,Westernmost,1
+-0.4,36.9,16,Westernmost,1
+-0.3,36.7,15.6,Westernmost,1
+-0.3,37.2,15.8,Westernmost,1
+-0.2,36.6,16,Westernmost,1
+-0.2,36.7,16,Westernmost,1
+-0.2,37.3,16.2,Westernmost,1
+-0.1,35.9,16.6,Westernmost,1
+-0.1,36,16.1,Westernmost,1
+-0.1,39,16,Westernmost,1
+0,36,16.65,Westernmost,1
+0,36.1,16.549999999999997,Westernmost,1
+0,36.2,16.6,Westernmost,1
+0,36.3,16.6,Westernmost,1
+0,36.5,16.65,Westernmost,1
+0,36.7,17.1,Westernmost,1
+0,36.8,15.3,Westernmost,1
+0,37.5,17,Westernmost,1
+0,37.9,16.7,Westernmost,1
+0,38.1,14,Westernmost,1
+0.1,36.2,16.8,Westernmost,1
+0.1,36.5,16.4,Westernmost,1
+0.1,36.6,18,Westernmost,1
+0.1,36.7,15,Westernmost,1
+0.1,38.4,16,Westernmost,1
+0.2,36.6,16.5,Westernmost,1
+0.2,36.7,17,Westernmost,1
+0.2,38.3,14.8,Westernmost,1
+0.3,36.6,16.7,Westernmost,1
+0.3,36.7,16.45,Westernmost,1
+0.3,36.8,17.1,Westernmost,1
+0.3,36.9,17,Westernmost,1
+0.3,37.7,16.2,Westernmost,1
+0.3,38.4,16.6,Westernmost,1
+0.3,39.7,16,Westernmost,1
+0.4,36.3,18,Westernmost,1
+0.4,36.5,16,Westernmost,1
+0.4,36.7,16,Westernmost,1
+0.4,36.8,16.7,Westernmost,1
+0.4,36.9,16,Westernmost,1
+0.4,37,15,Westernmost,1
+0.4,37.5,16,Westernmost,1
+0.4,38.6,16.6,Westernmost,1
+0.5,36.6,15,Westernmost,1
+0.5,36.8,16,Westernmost,1
+0.5,36.9,15.4,Westernmost,1
+0.6,36.7,16.4,Westernmost,1
+0.6,37.1,16,Westernmost,1
+0.6,37.8,14.8,Westernmost,1
+0.7,36.6,16.1,Westernmost,1
+0.7,37.1,16.5,Westernmost,1
+0.7,38.7,16.3,Westernmost,1
+0.8,36.6,17,Westernmost,1
+0.8,37.4,16.6,Westernmost,1
+0.8,37.5,16,Westernmost,1
+0.9,36.7,18,Westernmost,1
+0.9,37.6,17,Westernmost,1
+1,36.7,17,Westernmost,1
+1,37.4,16.3,Westernmost,1
+1,39.1,13.9,Westernmost,1
+1.1,36.7,16,Westernmost,1
+1.2,36.8,16.1,Westernmost,1
+1.2,36.9,17,Westernmost,1
+1.2,37.8,16,Westernmost,1
+1.2,38.1,16.4,Westernmost,1
+1.2,38.4,16,Westernmost,1
+1.2,39.9,15,Westernmost,1
+1.2,40.2,16,Westernmost,1
+1.3,36.9,15.6,Westernmost,1
+1.3,37.2,17,Westernmost,1
+1.3,38.1,16.7,Westernmost,1
+1.3,39.2,16.4,Westernmost,1
+1.4,36.7,16.5,Westernmost,1
+1.4,36.8,16.5,Westernmost,1
+1.4,36.9,17,Westernmost,1
+1.4,37.6,18,Westernmost,1
+1.4,37.8,15,Westernmost,1
+1.4,39.5,15,Westernmost,1
+1.5,36.8,17,Westernmost,1
+1.5,37,17.15,Westernmost,1
+1.5,37.4,17.8,Westernmost,1
+1.6,37.1,17,Westernmost,1
+1.6,37.7,18,Westernmost,1
+1.6,39.4,15.9,Westernmost,1
+1.7,38.7,16.75,Westernmost,1
+1.8,36.9,16.549999999999997,Westernmost,1
+1.8,37,15.7,Westernmost,1
+1.8,37.3,18,Westernmost,1
+1.9,36.8,17,Westernmost,1
+1.9,36.9,15.55,Westernmost,1
+1.9,37,16,Westernmost,1
+1.9,39.3,16,Westernmost,1
+2,36.9,16.5,Westernmost,1
+2,37,16.5,Westernmost,1
+2,37.3,15,Westernmost,1
+2,38.2,15.9,Westernmost,1
+2,38.4,16.3,Westernmost,1
+2.1,37,16.7,Westernmost,1
+2.1,37.1,16,Westernmost,1
+2.1,39.4,16.2,Westernmost,1
+2.2,36.9,17.35,Westernmost,1
+2.2,37,15.5,Westernmost,1
+2.2,37.1,16,Westernmost,1
+2.2,39.9,16.6,Westernmost,1
+2.2,40.6,16,Westernmost,1
+2.3,39,15.1,Westernmost,1
+2.4,37,17.8,Westernmost,1
+2.4,37.2,14,Westernmost,1
+2.4,37.3,17,Westernmost,1
+2.4,37.4,16.95,Westernmost,1
+2.4,39.9,16.4,Westernmost,1
+2.5,36.9,18,Westernmost,1
+2.5,37,15.5,Westernmost,1
+2.5,37.1,15,Westernmost,1
+2.5,40.1,13.2,Westernmost,1
+2.5,41,13,Westernmost,1
+2.6,37,16,Westernmost,1
+2.6,38.9,16.2,Westernmost,1
+2.6,40.1,16.3,Westernmost,1
+2.6,41.3,14.5,Westernmost,1
+2.7,36.9,18,Westernmost,1
+2.7,37,17.3,Westernmost,1
+2.7,37.2,17.5,Westernmost,1
+2.7,39.1,17,Westernmost,1
+2.7,40.1,16.1,Westernmost,1
+2.8,37.3,17,Westernmost,1
+2.9,37.6,17,Westernmost,1
+2.9,38.5,15.9,Westernmost,1
+2.9,40.5,15.6,Westernmost,1
+2.9,41.2,15,Westernmost,1
+3,40.9,14.5,Westernmost,1
+3,41.3,16,Westernmost,1
+3.1,37,17,Westernmost,1
+3.1,37.1,15.9,Westernmost,1
+3.1,37.4,17,Westernmost,1
+3.1,40.8,15.3,Westernmost,1
+3.2,37.2,16.1,Westernmost,1
+3.2,37.4,15.6,Westernmost,1
+3.2,37.6,16,Westernmost,1
+3.2,37.9,17,Westernmost,1
+3.2,40.7,15.9,Westernmost,1
+3.2,41.1,16,Westernmost,1
+3.3,37.1,16,Westernmost,1
+3.3,38.2,15.5,Westernmost,1
+3.3,38.5,15.5,Westernmost,1
+3.3,40.2,14,Westernmost,1
+3.4,37.1,17,Westernmost,1
+3.4,38.9,16.7,Westernmost,1
+3.4,39.3,15.2,Westernmost,1
+3.5,37,15.05,Westernmost,1
+3.5,37.1,17,Westernmost,1
+3.5,37.2,16,Westernmost,1
+3.5,37.3,17,Westernmost,1
+3.5,37.5,17,Westernmost,1
+3.5,37.9,16.6,Westernmost,1
+3.5,39.2,16,Westernmost,1
+3.5,41.6,16,Westernmost,1
+3.6,37.2,16.5,Westernmost,1
+3.6,38.9,15.5,Westernmost,1
+3.6,40,16.3,Westernmost,1
+3.6,41.4,15.3,Westernmost,1
+3.7,37.1,16,Westernmost,1
+3.7,37.2,16.2,Westernmost,1
+3.7,37.4,16.5,Westernmost,1
+3.7,37.7,16.7,Westernmost,1
+3.8,37.4,17.5,Westernmost,1
+3.8,37.5,16.7,Westernmost,1
+3.8,37.6,17,Westernmost,1
+3.8,38.6,16.4,Westernmost,1
+3.8,38.8,15,Westernmost,1
+3.8,40.3,18,Westernmost,1
+3.8,42.5,12.9,Westernmost,1
+3.9,37.1,15.8,Westernmost,1
+3.9,40.4,14.5,Westernmost,1
+3.9,41.8,15.6,Westernmost,1
+3.9,41.9,16,Westernmost,1
+4,37.3,17.2,Westernmost,1
+4,37.5,17,Westernmost,1
+4,39.5,15,Westernmost,1
+4.1,37.1,16,Westernmost,1
+4.1,37.8,17.8,Westernmost,1
+4.1,40.3,16.5,Westernmost,1
+4.1,42.1,14.3,Westernmost,1
+4.1,42.2,14.7,Westernmost,1
+4.2,37.3,15.8,Westernmost,1
+4.2,37.5,15,Westernmost,1
+4.2,40.3,17.5,Westernmost,1
+4.2,41,16.1,Westernmost,1
+4.2,42.2,12.9,Westernmost,1
+4.2,42.7,15.7,Westernmost,1
+4.2,43,14.4,Westernmost,1
+4.3,37,19,Westernmost,1
+4.3,37.3,14.8,Westernmost,1
+4.3,37.7,17,Westernmost,1
+4.3,38.9,16.1,Westernmost,1
+4.3,39.4,15.2,Westernmost,1
+4.3,39.7,15.9,Westernmost,1
+4.3,40.2,17.5,Westernmost,1
+4.3,42.2,14.5,Westernmost,1
+4.3,42.3,14.3,Westernmost,1
+4.3,42.5,15.6,Westernmost,1
+4.4,37.2,16.8,Westernmost,1
+4.4,37.3,16.4,Westernmost,1
+4.4,37.6,18,Westernmost,1
+4.4,40.8,16.9,Westernmost,1
+4.4,41.4,13.7,Westernmost,1
+4.4,41.6,16,Westernmost,1
+4.4,42.1,15.1,Westernmost,1
+4.4,42.2,14.6,Westernmost,1
+4.4,42.4,14.6,Westernmost,1
+4.5,37,16.5,Westernmost,1
+4.5,37.3,17.2,Westernmost,1
+4.5,37.4,16.1,Westernmost,1
+4.5,37.8,16.8,Westernmost,1
+4.5,39.8,15.5,Westernmost,1
+4.5,42.5,18.1,Westernmost,1
+4.6,37.1,16.4,Westernmost,1
+4.6,37.2,16.85,Westernmost,1
+4.6,37.5,14.5,Westernmost,1
+4.6,40.9,15.6,Westernmost,1
+4.6,42.3,14.4,Westernmost,1
+4.6,42.7,15.2,Westernmost,1
+4.6,43.2,15,Westernmost,1
+4.7,37.1,16,Westernmost,1
+4.7,42,14.8,Westernmost,1
+4.7,42.1,14.4,Westernmost,1
+4.8,37.8,16,Westernmost,1
+4.8,39.4,16,Westernmost,1
+4.8,43.2,15.3,Westernmost,1
+4.8,43.3,14.7,Westernmost,1
+4.9,41.3,15.1,Westernmost,1
+4.9,41.8,18.450000000000003,Westernmost,1
+4.9,42.5,14.5,Westernmost,1
+4.9,43.1,15.5,Westernmost,1
+4.9,43.3,15.75,Westernmost,1
+5,37.2,17,Westernmost,1
+5,37.3,17,Westernmost,1
+5,37.4,16,Westernmost,1
+5,39.2,14.3,Westernmost,1
+5,42.2,12.5,Westernmost,1
+5,42.6,17.4,Westernmost,1
+5,42.9,18.6,Westernmost,1
+5,43,18.3,Westernmost,1
+5,43.1,15.7,Westernmost,1
+5,43.2,16.95,Westernmost,1
+5.1,37.1,19,Westernmost,1
+5.1,37.2,15.7,Westernmost,1
+5.1,37.5,15.6,Westernmost,1
+5.1,37.6,17,Westernmost,1
+5.1,38.9,16.8,Westernmost,1
+5.1,41.4,19,Westernmost,1
+5.1,42.4,15,Westernmost,1
+5.1,42.6,14.5,Westernmost,1
+5.2,37.2,16.9,Westernmost,1
+5.2,37.4,17,Westernmost,1
+5.2,37.6,19,Westernmost,1
+5.2,38,16,Westernmost,1
+5.2,39.8,20.5,Westernmost,1
+5.2,40.6,20.3,Westernmost,1
+5.2,42.3,15.5,Westernmost,1
+5.2,42.4,14.1,Westernmost,1
+5.2,42.5,14.2,Westernmost,1
+5.2,43.1,15.95,Westernmost,1
+5.2,43.2,14.7,Westernmost,1
+5.2,43.3,14.85,Westernmost,1
+5.3,37.4,17.2,Westernmost,1
+5.3,39.2,15.5,Westernmost,1
+5.3,40.1,16.9,Westernmost,1
+5.3,40.4,20.4,Westernmost,1
+5.3,41.8,15.3,Westernmost,1
+5.3,41.9,15.1,Westernmost,1
+5.3,42,16.5,Westernmost,1
+5.3,42.1,17.2,Westernmost,1
+5.3,42.2,17,Westernmost,1
+5.3,43,16.6,Westernmost,1
+5.3,43.1,15.45,Westernmost,1
+5.3,43.2,14.55,Westernmost,1
+5.3,43.3,14.7,Westernmost,1
+5.4,37.3,15,Westernmost,1
+5.4,40.4,15.2,Westernmost,1
+5.4,41.1,19.6,Westernmost,1
+5.4,41.2,16.9,Westernmost,1
+5.4,41.7,15.4,Westernmost,1
+5.4,41.8,13.6,Westernmost,1
+5.4,41.9,15.399999999999999,Westernmost,1
+5.4,42.2,18.1,Westernmost,1
+5.4,43,16,Westernmost,1
+5.4,43.1,16.2,Westernmost,1
+5.5,37.5,16,Westernmost,1
+5.5,37.8,17,Westernmost,1
+5.5,41.2,16.4,Westernmost,1
+5.5,42.1,15,Westernmost,1
+5.5,43,15,Westernmost,1
+5.5,43.1,16.5,Westernmost,1
+5.6,37.1,16.2,Westernmost,1
+5.6,38,16,Westernmost,1
+5.6,38.5,18,Westernmost,1
+5.6,39.6,20.8,Westernmost,1
+5.6,40.6,16,Westernmost,1
+5.6,41,14.4,Westernmost,1
+5.6,41.1,15.9,Westernmost,1
+5.6,41.2,17.2,Westernmost,1
+5.6,41.7,18.2,Westernmost,1
+5.6,41.9,15,Westernmost,1
+5.6,42.1,17.7,Westernmost,1
+5.6,43,16.15,Westernmost,1
+5.6,43.1,16.4,Westernmost,1
+5.7,37.3,15.5,Westernmost,1
+5.7,38.1,15.7,Westernmost,1
+5.7,40.7,17.2,Westernmost,1
+5.7,40.9,20.7,Westernmost,1
+5.7,42.9,16.1,Westernmost,1
+5.7,43,15.6,Westernmost,1
+5.8,37.4,16.75,Westernmost,1
+5.8,38.1,17,Westernmost,1
+5.8,39,15.9,Westernmost,1
+5.8,39.6,15.7,Westernmost,1
+5.8,40.4,17.25,Westernmost,1
+5.8,42.4,13.1,Westernmost,1
+5.8,42.9,15.4,Westernmost,1
+5.8,43,16.3,Westernmost,1
+5.9,37.2,19,Westernmost,1
+5.9,37.7,17.4,Westernmost,1
+5.9,37.8,17.3,Westernmost,1
+5.9,38,15.5,Westernmost,1
+5.9,39.6,18.4,Westernmost,1
+5.9,40.1,16.5,Westernmost,1
+5.9,40.2,15.5,Westernmost,1
+5.9,40.7,17.4,Westernmost,1
+5.9,41.1,19.7,Westernmost,1
+5.9,42.8,15.8,Westernmost,1
+5.9,42.9,15.75,Westernmost,1
+5.9,43,15.3,Westernmost,1
+6,37.2,16,Westernmost,1
+6,37.5,18.4,Westernmost,1
+6,37.8,16.3,Westernmost,1
+6,38.8,16.6,Westernmost,1
+6,39.1,18.8,Westernmost,1
+6,39.6,16.7,Westernmost,1
+6,40.1,21,Westernmost,1
+6,41.9,14.9,Westernmost,1
+6,42.1,15.2,Westernmost,1
+6,42.7,14.9,Westernmost,1
+6,42.8,15.45,Westernmost,1
+6,42.9,15.95,Westernmost,1
+6,43,15.9,Westernmost,1
+6.1,37.3,16.8,Westernmost,1
+6.1,37.4,17.1,Westernmost,1
+6.1,37.5,17.5,Westernmost,1
+6.1,38,16,Westernmost,1
+6.1,38.6,18.5,Westernmost,1
+6.1,39.4,16.05,Westernmost,1
+6.1,39.5,15.4,Westernmost,1
+6.1,42.4,15.4,Westernmost,1
+6.1,42.7,14.3,Westernmost,1
+6.1,42.9,15.8,Westernmost,1
+6.1,43,14.9,Westernmost,1
+6.2,37.8,18,Westernmost,1
+6.2,38,16.7,Westernmost,1
+6.2,38.8,15.8,Westernmost,1
+6.2,39.6,18.3,Westernmost,1
+6.2,42,15.5,Westernmost,1
+6.2,42.8,15.05,Westernmost,1
+6.2,42.9,16,Westernmost,1
+6.3,37.1,19.5,Westernmost,1
+6.3,37.5,17,Westernmost,1
+6.3,38.7,16.3,Westernmost,1
+6.3,38.9,17.4,Westernmost,1
+6.3,39.3,16.5,Westernmost,1
+6.3,40.6,21.1,Westernmost,1
+6.3,41.2,14.4,Westernmost,1
+6.3,41.8,16.6,Westernmost,1
+6.3,42.2,15.3,Westernmost,1
+6.3,42.8,15.8,Westernmost,1
+6.3,42.9,16.15,Westernmost,1
+6.3,43,16.3,Westernmost,1
+6.4,37.3,17.2,Westernmost,1
+6.4,37.4,16.3,Westernmost,1
+6.4,37.5,16.2,Westernmost,1
+6.4,37.6,16.5,Westernmost,1
+6.4,38.1,17,Westernmost,1
+6.4,38.2,15.5,Westernmost,1
+6.4,38.3,18.2,Westernmost,1
+6.4,38.5,21.3,Westernmost,1
+6.4,38.7,15.8,Westernmost,1
+6.4,39.5,16.8,Westernmost,1
+6.4,42.7,15,Westernmost,1
+6.4,42.8,15.4,Westernmost,1
+6.4,42.9,15.8,Westernmost,1
+6.5,37.1,16,Westernmost,1
+6.5,37.6,16.7,Westernmost,1
+6.5,38.1,16.8,Westernmost,1
+6.5,38.2,17.65,Westernmost,1
+6.5,38.4,17.8,Westernmost,1
+6.5,41.4,15.2,Westernmost,1
+6.5,42.5,14.7,Westernmost,1
+6.5,42.6,14.75,Westernmost,1
+6.5,42.8,15.3,Westernmost,1
+6.5,42.9,15.6,Westernmost,1
+6.6,37.1,15.9,Westernmost,1
+6.6,37.2,19,Westernmost,1
+6.6,37.3,16,Westernmost,1
+6.6,37.8,17,Westernmost,1
+6.6,37.9,15.7,Westernmost,1
+6.6,38,16.5,Westernmost,1
+6.6,38.3,21.2,Westernmost,1
+6.6,38.6,15.9,Westernmost,1
+6.6,40,21.6,Westernmost,1
+6.6,42.5,14.8,Westernmost,1
+6.6,42.7,15.5,Westernmost,1
+6.6,42.8,15.2,Westernmost,1
+6.6,42.9,15.8,Westernmost,1
+6.6,43,15.5,Westernmost,1
+6.7,37.2,17.4,Westernmost,1
+6.7,37.3,16.8,Westernmost,1
+6.7,37.4,17.2,Westernmost,1
+6.7,37.9,18.1,Westernmost,1
+6.7,38.5,16,Westernmost,1
+6.7,40.4,16,Westernmost,1
+6.7,41.1,16.6,Westernmost,1
+6.7,41.5,16,Westernmost,1
+6.7,42.4,15.2,Westernmost,1
+6.7,42.5,14.8,Westernmost,1
+6.7,42.9,15,Westernmost,1
+6.7,43.2,16.55,Westernmost,1
+6.8,37.2,16,Westernmost,1
+6.8,37.3,16.65,Westernmost,1
+6.8,37.5,18.1,Westernmost,1
+6.8,38.3,16,Westernmost,1
+6.8,39,15.8,Westernmost,1
+6.8,39.7,16.5,Westernmost,1
+6.8,40.2,16.6,Westernmost,1
+6.8,41,15.7,Westernmost,1
+6.8,42.9,16,Westernmost,1
+6.8,43,14.6,Westernmost,1
+6.9,37.1,16.6,Westernmost,1
+6.9,37.3,19,Westernmost,1
+6.9,37.6,17,Westernmost,1
+6.9,37.7,15,Westernmost,1
+6.9,38.4,14.3,Westernmost,1
+6.9,40.8,17.4,Westernmost,1
+6.9,42.3,15,Westernmost,1
+6.9,42.4,15.4,Westernmost,1
+6.9,42.9,15.15,Westernmost,1
+6.9,43.1,15.3,Westernmost,1
+6.9,43.3,16.4,Westernmost,1
+7,37.1,16.25,Westernmost,1
+7,37.5,18.35,Westernmost,1
+7,37.6,16.55,Westernmost,1
+7,38.4,17,Westernmost,1
+7,42.3,15.899999999999999,Westernmost,1
+7,42.4,16.35,Westernmost,1
+7,42.5,15.1,Westernmost,1
+7,42.6,14.7,Westernmost,1
+7,42.9,15,Westernmost,1
+7.1,37.4,17.1,Westernmost,1
+7.1,37.6,16.8,Westernmost,1
+7.1,37.9,17.5,Westernmost,1
+7.1,38.8,17.8,Westernmost,1
+7.1,42.4,16.1,Westernmost,1
+7.1,42.9,14.45,Westernmost,1
+7.1,43.1,15,Westernmost,1
+7.2,37.3,15.9,Westernmost,1
+7.2,40.4,15.7,Westernmost,1
+7.2,40.9,16.1,Westernmost,1
+7.2,41.4,17.3,Westernmost,1
+7.2,41.6,15.7,Westernmost,1
+7.2,42.3,15,Westernmost,1
+7.2,42.4,14.9,Westernmost,1
+7.2,42.9,14.45,Westernmost,1
+7.2,43.3,15.8,Westernmost,1
+7.2,43.4,16.5,Westernmost,1
+7.2,43.5,16.5,Westernmost,1
+7.2,43.6,15.6,Westernmost,1
+7.3,37.2,18,Westernmost,1
+7.3,37.3,15.7,Westernmost,1
+7.3,37.9,16,Westernmost,1
+7.3,38.8,16.5,Westernmost,1
+7.3,41.7,15,Westernmost,1
+7.3,42.3,15.2,Westernmost,1
+7.3,42.4,15.2,Westernmost,1
+7.3,42.7,13.8,Westernmost,1
+7.3,42.9,14.4,Westernmost,1
+7.3,43,14.25,Westernmost,1
+7.3,43.1,15,Westernmost,1
+7.3,43.5,15.85,Westernmost,1
+7.4,37.4,15,Westernmost,1
+7.4,37.5,17,Westernmost,1
+7.4,37.9,20,Westernmost,1
+7.4,38.4,15,Westernmost,1
+7.4,40.1,17.6,Westernmost,1
+7.4,42.3,15.5,Westernmost,1
+7.4,42.4,15.1,Westernmost,1
+7.4,42.8,14.9,Westernmost,1
+7.4,42.9,15.4,Westernmost,1
+7.4,43,13.7,Westernmost,1
+7.4,43.6,16.35,Westernmost,1
+7.5,37.5,14.7,Westernmost,1
+7.5,42.2,15.6,Westernmost,1
+7.5,42.9,14.3,Westernmost,1
+7.5,43,14.9,Westernmost,1
+7.5,43.2,15.3,Westernmost,1
+7.5,43.3,14.7,Westernmost,1
+7.5,43.5,15.5,Westernmost,1
+7.5,43.6,16.35,Westernmost,1
+7.6,37.6,15,Westernmost,1
+7.6,37.7,18,Westernmost,1
+7.6,38.2,16,Westernmost,1
+7.6,38.6,14,Westernmost,1
+7.6,38.7,15.2,Westernmost,1
+7.6,39.8,18.2,Westernmost,1
+7.6,41.6,16,Westernmost,1
+7.6,42.1,16.1,Westernmost,1
+7.6,42.2,16.1,Westernmost,1
+7.6,42.9,13.85,Westernmost,1
+7.6,43,15,Westernmost,1
+7.6,43.2,14.9,Westernmost,1
+7.6,43.5,15.8,Westernmost,1
+7.7,37.2,15,Westernmost,1
+7.7,37.3,18,Westernmost,1
+7.7,37.8,15.5,Westernmost,1
+7.7,42.1,15.5,Westernmost,1
+7.7,42.2,15.6,Westernmost,1
+7.7,42.5,15.3,Westernmost,1
+7.7,42.9,15.2,Westernmost,1
+7.7,43,14.85,Westernmost,1
+7.7,43.5,15.55,Westernmost,1
+7.8,37.2,16,Westernmost,1
+7.8,37.5,16.6,Westernmost,1
+7.8,37.8,17.3,Westernmost,1
+7.8,42.1,15.5,Westernmost,1
+7.8,42.8,14.85,Westernmost,1
+7.8,43,14.100000000000001,Westernmost,1
+7.8,43.1,13.4,Westernmost,1
+7.8,43.4,13.7,Westernmost,1
+7.9,37.8,15.2,Westernmost,1
+7.9,38.7,17,Westernmost,1
+7.9,39.4,15.4,Westernmost,1
+7.9,41.9,15.8,Westernmost,1
+7.9,42,16.3,Westernmost,1
+7.9,42.1,16.4,Westernmost,1
+7.9,42.5,15.4,Westernmost,1
+7.9,42.7,14.7,Westernmost,1
+7.9,42.9,14.3,Westernmost,1
+7.9,43,14.4,Westernmost,1
+7.9,43.4,14,Westernmost,1
+8,37.2,18.6,Westernmost,1
+8,37.3,16,Westernmost,1
+8,37.5,17.05,Westernmost,1
+8,38.5,17,Westernmost,1
+8,40.4,17.4,Westernmost,1
+8,41.8,15,Westernmost,1
+8,41.9,16.9,Westernmost,1
+8,42.3,15.6,Westernmost,1
+8,42.6,13.9,Westernmost,1
+8,42.9,14.2,Westernmost,1
+8,43,13.7,Westernmost,1
+8.1,37.2,18,Westernmost,1
+8.1,37.5,18,Westernmost,1
+8.1,37.9,18,Westernmost,1
+8.1,38.4,15.3,Westernmost,1
+8.1,38.6,17,Westernmost,1
+8.1,39,16.5,Westernmost,1
+8.1,39.3,17.6,Westernmost,1
+8.1,41.9,15.5,Westernmost,1
+8.1,42,16.8,Westernmost,1
+8.1,42.1,15.3,Westernmost,1
+8.1,42.3,15.6,Westernmost,1
+8.1,42.4,14.3,Westernmost,1
+8.1,42.9,15.4,Westernmost,1
+8.1,43,13.7,Westernmost,1
+8.1,43.4,14.8,Westernmost,1
+8.2,37.3,18,Westernmost,1
+8.2,37.4,16.5,Westernmost,1
+8.2,37.5,17,Westernmost,1
+8.2,37.8,18.7,Westernmost,1
+8.2,37.9,17,Westernmost,1
+8.2,38.1,14.8,Westernmost,1
+8.2,38.4,15.9,Westernmost,1
+8.2,41.8,16.200000000000003,Westernmost,1
+8.2,41.9,16,Westernmost,1
+8.2,43,14.1,Westernmost,1
+8.3,37.3,18,Westernmost,1
+8.3,37.6,17,Westernmost,1
+8.3,37.7,16,Westernmost,1
+8.3,37.8,16.7,Westernmost,1
+8.3,37.9,16.7,Westernmost,1
+8.3,40.9,15.3,Westernmost,1
+8.3,42.1,15.9,Westernmost,1
+8.3,42.3,15.3,Westernmost,1
+8.3,42.5,15.9,Westernmost,1
+8.3,42.9,15.1,Westernmost,1
+8.3,43,14.2,Westernmost,1
+8.3,43.9,15.5,Westernmost,1
+8.4,37.3,18,Westernmost,1
+8.4,37.6,16.1,Westernmost,1
+8.4,38.7,17.5,Westernmost,1
+8.4,40.9,15.7,Westernmost,1
+8.4,41,14.9,Westernmost,1
+8.4,41.5,15.6,Westernmost,1
+8.4,41.8,15.1,Westernmost,1
+8.4,41.9,15.9,Westernmost,1
+8.4,43,14.75,Westernmost,1
+8.5,37.5,17.8,Westernmost,1
+8.5,37.7,17,Westernmost,1
+8.5,37.9,16,Westernmost,1
+8.5,38.2,17,Westernmost,1
+8.5,38.3,14.8,Westernmost,1
+8.5,41,14.9,Westernmost,1
+8.5,41.1,15.3,Westernmost,1
+8.5,41.5,15.1,Westernmost,1
+8.5,41.6,16.1,Westernmost,1
+8.5,42.5,14,Westernmost,1
+8.5,42.6,15.5,Westernmost,1
+8.5,43,15,Westernmost,1
+8.5,43.1,13.5,Westernmost,1
+8.5,43.2,14.9,Westernmost,1
+8.5,43.4,13.8,Westernmost,1
+8.6,37.9,17.2,Westernmost,1
+8.6,41.3,15.5,Westernmost,1
+8.6,41.6,14.8,Westernmost,1
+8.6,41.8,15.25,Westernmost,1
+8.6,43,15.3,Westernmost,1
+8.6,43.2,14.4,Westernmost,1
+8.6,43.5,14.3,Westernmost,1
+8.7,37.3,18,Westernmost,1
+8.7,37.8,15.5,Westernmost,1
+8.7,38.7,16,Westernmost,1
+8.7,41.4,16.6,Westernmost,1
+8.7,41.9,14,Westernmost,1
+8.7,43,14.3,Westernmost,1
+8.7,43.3,14.3,Westernmost,1
+8.8,37.3,17.3,Westernmost,1
+8.8,37.8,17,Westernmost,1
+8.8,38.4,15.4,Westernmost,1
+8.8,38.7,15.3,Westernmost,1
+8.8,41.6,15.5,Westernmost,1
+8.8,42.8,15.5,Westernmost,1
+8.8,42.9,15.9,Westernmost,1
+8.8,43,16.25,Westernmost,1
+8.9,37.3,19,Westernmost,1
+8.9,37.6,14.6,Westernmost,1
+8.9,38,16,Westernmost,1
+8.9,38.4,17,Westernmost,1
+8.9,38.8,15.4,Westernmost,1
+8.9,43,16,Westernmost,1
+8.9,43.5,15,Westernmost,1
+9,38.1,17.6,Westernmost,1
+9,38.3,16.1,Westernmost,1
+9,38.8,15.5,Tyrrhenian Sea,2
+9,38.9,13,Tyrrhenian Sea,2
+9,44.1,12,Westernmost,1
+9.1,37.3,17,Westernmost,1
+9.1,38.1,16.4,Westernmost,1
+9.1,38.3,17,Westernmost,1
+9.1,38.9,15.4,Tyrrhenian Sea,2
+9.1,43,15.25,Westernmost,1
+9.1,43.1,14.9,Westernmost,1
+9.1,43.5,14.7,Westernmost,1
+9.1,43.6,15.9,Westernmost,1
+9.1,44.2,14.5,Westernmost,1
+9.2,37.4,17.6,Westernmost,1
+9.2,38.9,16,Tyrrhenian Sea,2
+9.2,39,15.6,Tyrrhenian Sea,2
+9.2,43,14.7,Westernmost,1
+9.2,43.1,16.4,Westernmost,1
+9.2,43.2,14.7,Westernmost,1
+9.2,43.5,17.049999999999997,Westernmost,1
+9.2,43.9,12,Westernmost,1
+9.2,44,13,Westernmost,1
+9.3,37.8,16.950000000000003,Westernmost,1
+9.3,38.2,16,Westernmost,1
+9.3,39,15.4,Tyrrhenian Sea,2
+9.3,43,15.9,Westernmost,1
+9.4,37.9,17.9,Westernmost,1
+9.4,38.5,16.4,Westernmost,1
+9.4,38.6,16.9,Westernmost,1
+9.4,38.9,16.2,Tyrrhenian Sea,2
+9.4,39,15.3,Tyrrhenian Sea,2
+9.4,43.3,14.8,Westernmost,1
+9.4,43.4,12.5,Westernmost,1
+9.4,43.5,11,Westernmost,1
+9.4,44,15.5,Westernmost,1
+9.5,38,15.6,Westernmost,1
+9.5,38.9,15.9,Tyrrhenian Sea,2
+9.5,42.6,17,Tyrrhenian Sea,2
+9.5,42.7,15.1,Tyrrhenian Sea,2
+9.5,42.8,16.1,Tyrrhenian Sea,2
+9.5,42.9,14.9,Tyrrhenian Sea,2
+9.5,43.2,13,Westernmost,1
+9.5,43.4,16,Westernmost,1
+9.6,37.6,15.5,Westernmost,1
+9.6,39.1,16.1,Tyrrhenian Sea,2
+9.6,41.1,15.1,Tyrrhenian Sea,2
+9.6,42.6,12,Tyrrhenian Sea,2
+9.6,42.8,14,Tyrrhenian Sea,2
+9.6,42.9,16,Tyrrhenian Sea,2
+9.6,43.2,16.1,Tyrrhenian Sea,2
+9.7,38.8,14,Tyrrhenian Sea,2
+9.7,39.1,16.2,Tyrrhenian Sea,2
+9.7,39.2,16.4,Tyrrhenian Sea,2
+9.7,41,14.4,Tyrrhenian Sea,2
+9.7,41.9,14,Tyrrhenian Sea,2
+9.7,42.5,12,Tyrrhenian Sea,2
+9.7,42.6,13,Tyrrhenian Sea,2
+9.7,42.7,15.9,Tyrrhenian Sea,2
+9.7,43.3,17.6,Tyrrhenian Sea,2
+9.7,43.6,13,Tyrrhenian Sea,2
+9.7,43.8,17.6,Westernmost,1
+9.8,37.5,17,Westernmost,1
+9.8,37.7,16,Westernmost,1
+9.8,38,16,Westernmost,1
+9.8,38.7,14,Tyrrhenian Sea,2
+9.8,39.3,16.6,Tyrrhenian Sea,2
+9.8,39.4,12,Tyrrhenian Sea,2
+9.8,39.5,12,Tyrrhenian Sea,2
+9.8,39.7,16.1,Tyrrhenian Sea,2
+9.8,39.8,14.15,Tyrrhenian Sea,2
+9.8,41.2,14,Tyrrhenian Sea,2
+9.8,41.4,11,Tyrrhenian Sea,2
+9.8,41.5,11,Tyrrhenian Sea,2
+9.8,41.7,13,Tyrrhenian Sea,2
+9.8,41.9,15.75,Tyrrhenian Sea,2
+9.8,42.4,16.4,Tyrrhenian Sea,2
+9.8,44,15.9,Westernmost,1
+9.9,37.5,19,Westernmost,1
+9.9,37.6,18,Westernmost,1
+9.9,37.7,19,Westernmost,1
+9.9,39,17,Tyrrhenian Sea,2
+9.9,39.1,17.5,Tyrrhenian Sea,2
+9.9,40,17.1,Tyrrhenian Sea,2
+9.9,40.3,15.2,Tyrrhenian Sea,2
+9.9,40.4,11,Tyrrhenian Sea,2
+9.9,40.5,12.5,Tyrrhenian Sea,2
+9.9,40.7,11,Tyrrhenian Sea,2
+9.9,40.8,16.5,Tyrrhenian Sea,2
+9.9,41.1,16,Tyrrhenian Sea,2
+9.9,41.2,14,Tyrrhenian Sea,2
+9.9,41.9,15,Tyrrhenian Sea,2
+9.9,42.4,15.5,Tyrrhenian Sea,2
+9.9,43.2,16,Tyrrhenian Sea,2
+9.9,43.4,15.05,Tyrrhenian Sea,2
+9.9,43.7,16.8,Tyrrhenian Sea,2
+10,37.5,19,Westernmost,1
+10,37.7,18,Westernmost,1
+10,39.8,15.5,Tyrrhenian Sea,2
+10,40,16.5,Tyrrhenian Sea,2
+10,40.2,13,Tyrrhenian Sea,2
+10,41.2,17,Tyrrhenian Sea,2
+10,41.6,17,Tyrrhenian Sea,2
+10,42.2,16,Tyrrhenian Sea,2
+10,43,14,Tyrrhenian Sea,2
+10,43.2,15.5,Tyrrhenian Sea,2
+10,43.3,16.2,Tyrrhenian Sea,2
+10,43.5,14,Tyrrhenian Sea,2
+10.1,37.5,20,Westernmost,1
+10.1,37.6,19,Westernmost,1
+10.1,37.7,16,Westernmost,1
+10.1,37.8,16.6,Westernmost,1
+10.1,38.1,17,Westernmost,1
+10.1,38.6,15.2,Tyrrhenian Sea,2
+10.1,38.8,16.6,Tyrrhenian Sea,2
+10.1,39.3,13,Tyrrhenian Sea,2
+10.1,41.6,15.5,Tyrrhenian Sea,2
+10.1,42.8,16,Tyrrhenian Sea,2
+10.1,43.4,16,Tyrrhenian Sea,2
+10.2,37.3,18.2,Westernmost,1
+10.2,37.8,17.3,Westernmost,1
+10.2,38,17,Westernmost,1
+10.2,38.1,17.5,Westernmost,1
+10.2,38.9,15,Tyrrhenian Sea,2
+10.2,40.2,11,Tyrrhenian Sea,2
+10.2,40.9,17,Tyrrhenian Sea,2
+10.2,41.1,17.5,Tyrrhenian Sea,2
+10.2,41.3,16,Tyrrhenian Sea,2
+10.2,41.5,16.1,Tyrrhenian Sea,2
+10.2,42.5,18,Tyrrhenian Sea,2
+10.2,43.4,15.8,Tyrrhenian Sea,2
+10.3,37.4,16.6,Westernmost,1
+10.3,37.7,17.4,Westernmost,1
+10.3,38,16,Westernmost,1
+10.3,38.1,16.5,Westernmost,1
+10.3,38.3,13,Westernmost,1
+10.3,40.1,17,Tyrrhenian Sea,2
+10.3,41.5,16,Tyrrhenian Sea,2
+10.3,41.8,14,Tyrrhenian Sea,2
+10.4,36.8,16,Westernmost,1
+10.4,37.1,17.35,Westernmost,1
+10.4,37.2,16.5,Westernmost,1
+10.4,37.4,16,Westernmost,1
+10.4,37.5,18,Westernmost,1
+10.4,38.5,15.45,Tyrrhenian Sea,2
+10.5,37,15,Westernmost,1
+10.5,37.1,18.4,Westernmost,1
+10.5,37.3,16,Westernmost,1
+10.5,37.4,16,Westernmost,1
+10.5,37.5,17.2,Westernmost,1
+10.5,38,16,Westernmost,1
+10.5,39.5,17,Tyrrhenian Sea,2
+10.5,39.8,15,Tyrrhenian Sea,2
+10.5,40.9,16,Tyrrhenian Sea,2
+10.6,37.4,15,Westernmost,1
+10.6,38.1,18.7,Westernmost,1
+10.6,40.5,18.1,Tyrrhenian Sea,2
+10.6,40.6,16.9,Tyrrhenian Sea,2
+10.7,37.3,18.4,Westernmost,1
+10.7,37.4,16,Westernmost,1
+10.7,37.6,17,Westernmost,1
+10.7,38.3,14,Tyrrhenian Sea,2
+10.7,41.8,14,Tyrrhenian Sea,2
+10.8,37.2,15,Westernmost,1
+10.8,37.4,18,Westernmost,1
+10.8,37.5,16,Westernmost,1
+10.8,40.7,14,Tyrrhenian Sea,2
+10.9,37.2,18,Westernmost,1
+11,37.2,19,Westernmost,1
+11,39.7,18.1,Tyrrhenian Sea,2
+11.1,39.9,16.8,Tyrrhenian Sea,2
+11.1,41.4,14,Tyrrhenian Sea,2
+11.2,37.1,18,Ionian Sea,4
+11.2,37.2,18,Westernmost,1
+11.3,37.1,17.1,Ionian Sea,4
+11.3,37.3,15,Westernmost,1
+11.3,38.4,14.7,Tyrrhenian Sea,2
+11.3,39.2,16.6,Tyrrhenian Sea,2
+11.4,37.2,18.4,Ionian Sea,4
+11.4,39.5,14,Tyrrhenian Sea,2
+11.4,42,17,Tyrrhenian Sea,2
+11.5,37,16.8,Ionian Sea,4
+11.5,37.1,19.5,Ionian Sea,4
+11.5,37.2,16.9,Ionian Sea,4
+11.5,37.3,16.5,Ionian Sea,4
+11.5,37.8,17,Westernmost,1
+11.5,38.6,16.1,Tyrrhenian Sea,2
+11.5,38.8,17.9,Tyrrhenian Sea,2
+11.6,37,15,Ionian Sea,4
+11.6,37.1,14,Ionian Sea,4
+11.7,37,15.8,Ionian Sea,4
+11.7,37.2,18.9,Ionian Sea,4
+11.8,37.1,19,Ionian Sea,4
+11.8,38.3,17.6,Tyrrhenian Sea,2
+11.8,38.6,14,Tyrrhenian Sea,2
+11.9,35.9,18,Ionian Sea,4
+11.9,37,15.7,Ionian Sea,4
+11.9,37.1,17.4,Ionian Sea,4
+11.9,37.8,18.4,Westernmost,1
+12,36.9,14.5,Ionian Sea,4
+12.1,37,18,Ionian Sea,4
+12.1,37.7,16.7,Westernmost,1
+12.1,39.7,18,Tyrrhenian Sea,2
+12.2,36.2,18.9,Ionian Sea,4
+12.2,36.8,15,Ionian Sea,4
+12.2,36.9,17.5,Ionian Sea,4
+12.2,37,14,Ionian Sea,4
+12.2,41.1,18,Tyrrhenian Sea,2
+12.3,36.8,15,Ionian Sea,4
+12.3,36.9,17.299999999999997,Ionian Sea,4
+12.4,36.8,16.1,Ionian Sea,4
+12.4,37.6,14,Ionian Sea,4
+12.4,38.3,16.4,Tyrrhenian Sea,2
+12.5,36.5,19,Ionian Sea,4
+12.5,36.8,18.25,Ionian Sea,4
+12.5,36.9,17.5,Ionian Sea,4
+12.5,40.2,16.2,Tyrrhenian Sea,2
+12.6,36.9,16,Ionian Sea,4
+12.6,37,17,Ionian Sea,4
+12.6,37.3,17,Ionian Sea,4
+12.6,37.4,13.8,Ionian Sea,4
+12.6,40.5,14,Tyrrhenian Sea,2
+12.7,36.9,17.9,Ionian Sea,4
+12.7,40.8,16,Tyrrhenian Sea,2
+12.8,36.6,20,Ionian Sea,4
+12.8,36.7,17.6,Ionian Sea,4
+12.8,36.8,20,Ionian Sea,4
+12.9,36.7,15,Ionian Sea,4
+12.9,36.8,17,Ionian Sea,4
+12.9,37.2,17.9,Ionian Sea,4
+12.9,40.2,15,Tyrrhenian Sea,2
+13.1,35.6,19,Ionian Sea,4
+13.1,36.7,17,Ionian Sea,4
+13.1,36.8,15,Ionian Sea,4
+13.1,37,17.2,Ionian Sea,4
+13.2,36.6,19,Ionian Sea,4
+13.2,36.9,15,Ionian Sea,4
+13.2,37,18.6,Ionian Sea,4
+13.2,44.8,13,Adriatic Sea,3
+13.3,36.5,18.8,Ionian Sea,4
+13.3,36.8,18.9,Ionian Sea,4
+13.3,38.9,14.2,Tyrrhenian Sea,2
+13.3,39.7,15,Tyrrhenian Sea,2
+13.4,36.6,19.6,Ionian Sea,4
+13.4,36.8,14,Ionian Sea,4
+13.6,36.3,18,Ionian Sea,4
+13.6,36.4,17,Ionian Sea,4
+13.6,36.5,16,Ionian Sea,4
+13.6,36.6,19.5,Ionian Sea,4
+13.7,36.8,16,Ionian Sea,4
+13.8,36.4,19.9,Ionian Sea,4
+13.8,36.5,19.3,Ionian Sea,4
+13.8,36.7,16,Ionian Sea,4
+13.9,36.6,17.4,Ionian Sea,4
+14,36.2,18,Ionian Sea,4
+14,36.6,21,Ionian Sea,4
+14,36.7,17,Ionian Sea,4
+14,39.7,15.75,Tyrrhenian Sea,2
+14,39.8,18,Tyrrhenian Sea,2
+14.1,36.2,17.8,Ionian Sea,4
+14.1,36.3,19,Ionian Sea,4
+14.1,36.4,17.8,Ionian Sea,4
+14.1,36.5,17.2,Ionian Sea,4
+14.1,36.6,17,Ionian Sea,4
+14.2,36.3,17,Ionian Sea,4
+14.2,36.5,20,Ionian Sea,4
+14.3,36.1,18.5,Ionian Sea,4
+14.3,40.8,15,Tyrrhenian Sea,2
+14.3,43.9,15,Adriatic Sea,3
+14.3,44.1,16.7,Adriatic Sea,3
+14.4,36.3,17,Ionian Sea,4
+14.4,36.5,20,Ionian Sea,4
+14.4,39.3,15,Tyrrhenian Sea,2
+14.5,35.7,19.9,Ionian Sea,4
+14.5,36.2,17.6,Ionian Sea,4
+14.5,38.3,19,Tyrrhenian Sea,2
+14.5,43.5,16,Adriatic Sea,3
+14.5,43.7,15,Adriatic Sea,3
+14.6,36.3,18,Ionian Sea,4
+14.6,36.4,18.799999999999997,Ionian Sea,4
+14.6,36.6,15,Ionian Sea,4
+14.7,43.5,14,Adriatic Sea,3
+14.7,43.6,16,Adriatic Sea,3
+14.8,36,18,Ionian Sea,4
+14.8,36.2,19,Ionian Sea,4
+14.8,36.7,18.9,Ionian Sea,4
+14.8,39.2,17.6,Tyrrhenian Sea,2
+14.8,43.5,16,Adriatic Sea,3
+14.9,35.7,19.8,Ionian Sea,4
+14.9,36.2,19.3,Ionian Sea,4
+14.9,36.3,14.8,Ionian Sea,4
+15,36.1,18.3,Ionian Sea,4
+15,39.1,18,Tyrrhenian Sea,2
+15,42.9,16.7,Adriatic Sea,3
+15.1,36.2,17,Ionian Sea,4
+15.2,32.5,21,Ionian Sea,4
+15.2,36.3,16,Ionian Sea,4
+15.3,36,16,Ionian Sea,4
+15.3,36.2,19,Ionian Sea,4
+15.3,36.5,16.75,Ionian Sea,4
+15.3,42.6,14,Adriatic Sea,3
+15.3,42.9,16,Adriatic Sea,3
+15.4,34.4,18.9,Ionian Sea,4
+15.4,36,18.3,Ionian Sea,4
+15.4,36.2,17.95,Ionian Sea,4
+15.4,36.3,17.3,Ionian Sea,4
+15.5,35.2,18.3,Ionian Sea,4
+15.5,35.4,18,Ionian Sea,4
+15.5,36,16.9,Ionian Sea,4
+15.5,36.8,15,Ionian Sea,4
+15.5,38.7,18.5,Tyrrhenian Sea,2
+15.5,42.6,16,Adriatic Sea,3
+15.6,35.2,18.3,Ionian Sea,4
+15.6,35.8,17,Ionian Sea,4
+15.6,36.1,19,Ionian Sea,4
+15.6,36.2,19,Ionian Sea,4
+15.6,36.9,20,Ionian Sea,4
+15.7,36.2,17,Ionian Sea,4
+15.7,36.6,16,Ionian Sea,4
+15.7,38.4,19.1,Tyrrhenian Sea,2
+15.7,42.6,14.5,Adriatic Sea,3
+15.7,43.2,16,Adriatic Sea,3
+15.8,35.2,18.9,Ionian Sea,4
+15.8,35.7,20,Ionian Sea,4
+15.8,36,18.55,Ionian Sea,4
+15.8,37.2,17,Ionian Sea,4
+15.8,37.7,19.4,Ionian Sea,4
+15.8,43.1,16,Adriatic Sea,3
+15.9,35.9,18,Ionian Sea,4
+15.9,37.8,19,Ionian Sea,4
+16,35.9,17.5,Ionian Sea,4
+16,36,17.9,Ionian Sea,4
+16,36.2,16.1,Ionian Sea,4
+16,36.5,18.5,Ionian Sea,4
+16.1,35.7,18,Ionian Sea,4
+16.2,35.4,19.9,Ionian Sea,4
+16.2,35.5,17,Ionian Sea,4
+16.2,35.9,19.5,Ionian Sea,4
+16.2,36.4,20,Ionian Sea,4
+16.2,36.6,18.3,Ionian Sea,4
+16.2,37.9,17,Ionian Sea,4
+16.3,35.5,18,Ionian Sea,4
+16.3,35.9,18.9,Ionian Sea,4
+16.3,36.3,18.2,Ionian Sea,4
+16.3,37.1,20.6,Ionian Sea,4
+16.3,37.5,17.2,Ionian Sea,4
+16.3,37.8,17.5,Ionian Sea,4
+16.4,35.8,20,Ionian Sea,4
+16.4,36,18.299999999999997,Ionian Sea,4
+16.4,36.4,19,Ionian Sea,4
+16.4,37.5,15,Ionian Sea,4
+16.5,35.1,18.3,Ionian Sea,4
+16.5,35.5,20.9,Ionian Sea,4
+16.5,35.7,19.2,Ionian Sea,4
+16.5,36,19.2,Ionian Sea,4
+16.5,36.1,16,Ionian Sea,4
+16.5,37.2,18,Ionian Sea,4
+16.6,34.9,19.4,Ionian Sea,4
+16.6,35.3,20,Ionian Sea,4
+16.7,35.6,20.25,Ionian Sea,4
+16.7,35.7,17.5,Ionian Sea,4
+16.7,41.8,15,Adriatic Sea,3
+16.8,34.1,20,Ionian Sea,4
+16.8,35.4,19.4,Ionian Sea,4
+16.8,35.9,17,Ionian Sea,4
+16.8,38.1,20,Ionian Sea,4
+16.8,42.2,16.7,Adriatic Sea,3
+16.8,42.7,16.7,Adriatic Sea,3
+16.9,35.6,18.5,Ionian Sea,4
+16.9,35.8,19,Ionian Sea,4
+16.9,36.1,19,Ionian Sea,4
+16.9,36.3,16,Ionian Sea,4
+16.9,37.5,19,Ionian Sea,4
+17,35.4,19,Ionian Sea,4
+17,35.6,18.3,Ionian Sea,4
+17,35.7,18,Ionian Sea,4
+17,41.6,16.3,Adriatic Sea,3
+17,41.8,14.5,Adriatic Sea,3
+17.1,35.2,17,Ionian Sea,4
+17.1,35.6,18.5,Ionian Sea,4
+17.1,35.8,18.7,Ionian Sea,4
+17.1,36.1,20,Ionian Sea,4
+17.1,37.3,17,Ionian Sea,4
+17.2,35.7,19,Ionian Sea,4
+17.2,38.1,20.6,Ionian Sea,4
+17.2,40.3,15.9,Ionian Sea,4
+17.3,35.1,20.8,Ionian Sea,4
+17.3,35.5,19.4,Ionian Sea,4
+17.3,35.7,19,Ionian Sea,4
+17.3,41.3,14,Adriatic Sea,3
+17.4,34.6,19.4,Ionian Sea,4
+17.4,35.3,20,Ionian Sea,4
+17.4,35.6,19,Ionian Sea,4
+17.4,37.3,17,Ionian Sea,4
+17.4,37.7,18.9,Ionian Sea,4
+17.5,35.6,19,Ionian Sea,4
+17.5,36.4,18,Ionian Sea,4
+17.5,38.4,16,Ionian Sea,4
+17.5,40.1,15.7,Ionian Sea,4
+17.6,33.6,20,Ionian Sea,4
+17.6,35.6,20,Ionian Sea,4
+17.6,37.2,16,Ionian Sea,4
+17.6,37.8,18,Ionian Sea,4
+17.6,41.3,15.8,Adriatic Sea,3
+17.7,35.2,16.4,Ionian Sea,4
+17.7,35.5,19,Ionian Sea,4
+17.7,36.4,18.6,Ionian Sea,4
+17.8,34.5,19.3,Ionian Sea,4
+17.8,35,18,Ionian Sea,4
+17.8,35.8,18,Ionian Sea,4
+17.8,36.7,19,Ionian Sea,4
+17.8,37.5,18.5,Ionian Sea,4
+17.8,41,13,Adriatic Sea,3
+17.9,34.4,19.4,Ionian Sea,4
+17.9,35.3,18,Ionian Sea,4
+17.9,35.4,18.3,Ionian Sea,4
+17.9,36.4,18,Ionian Sea,4
+17.9,38.7,18.9,Ionian Sea,4
+18,35.3,19.8,Ionian Sea,4
+18,35.4,20.5,Ionian Sea,4
+18,35.6,18.9,Ionian Sea,4
+18,36.9,17.3,Ionian Sea,4
+18,37.1,20,Ionian Sea,4
+18,41,15,Adriatic Sea,3
+18.1,32.5,18,Ionian Sea,4
+18.1,35.6,16,Ionian Sea,4
+18.1,35.8,16.2,Ionian Sea,4
+18.1,36.8,19.9,Ionian Sea,4
+18.1,37.1,17,Ionian Sea,4
+18.1,39.3,17.4,Ionian Sea,4
+18.1,40.8,14,Adriatic Sea,3
+18.2,34.9,17.5,Ionian Sea,4
+18.2,35.4,18,Ionian Sea,4
+18.2,39.3,20,Ionian Sea,4
+18.2,39.7,15,Ionian Sea,4
+18.2,40.8,15.1,Adriatic Sea,3
+18.3,35.5,21,Ionian Sea,4
+18.3,37.2,18.3,Ionian Sea,4
+18.3,37.3,18.3,Ionian Sea,4
+18.3,38.5,18.3,Ionian Sea,4
+18.4,34.9,18,Ionian Sea,4
+18.4,35.2,16.9,Ionian Sea,4
+18.4,35.3,19,Ionian Sea,4
+18.4,36.9,17,Ionian Sea,4
+18.4,39.6,14,Ionian Sea,4
+18.4,39.7,17,Ionian Sea,4
+18.5,34.8,20.8,Ionian Sea,4
+18.5,35.3,19.7,Ionian Sea,4
+18.5,35.8,19.4,Ionian Sea,4
+18.5,35.9,16.4,Ionian Sea,4
+18.5,36.9,19,Ionian Sea,4
+18.5,37.2,18.3,Ionian Sea,4
+18.5,37.5,19.4,Ionian Sea,4
+18.6,35.2,19.6,Ionian Sea,4
+18.6,35.6,18.5,Ionian Sea,4
+18.6,36.7,17.9,Ionian Sea,4
+18.6,39.6,16.7,Ionian Sea,4
+18.7,35,20,Ionian Sea,4
+18.7,35.3,19.5,Ionian Sea,4
+18.8,34.1,19.5,Ionian Sea,4
+18.8,35.2,19.5,Ionian Sea,4
+18.8,36.2,20,Ionian Sea,4
+18.8,38.5,18,Ionian Sea,4
+18.8,40.1,12,Adriatic Sea,3
+18.9,34.8,19.1,Ionian Sea,4
+18.9,35.2,19.35,Ionian Sea,4
+18.9,36.6,19.5,Ionian Sea,4
+18.9,40.4,16.7,Adriatic Sea,3
+18.9,40.5,17.8,Adriatic Sea,3
+19,35.1,17,Ionian Sea,4
+19,35.2,17.3,Ionian Sea,4
+19,36,17.3,Ionian Sea,4
+19.1,35.1,19.75,Ionian Sea,4
+19.1,36.5,20.6,Ionian Sea,4
+19.1,36.9,19.4,Ionian Sea,4
+19.2,35.2,16,Ionian Sea,4
+19.2,36.5,16.8,Ionian Sea,4
+19.3,35,20,Ionian Sea,4
+19.3,35.1,19,Ionian Sea,4
+19.3,35.9,17.6,Ionian Sea,4
+19.3,36.4,16,Ionian Sea,4
+19.3,38.6,14.5,Ionian Sea,4
+19.4,34.5,20.8,Ionian Sea,4
+19.4,36.6,17,Ionian Sea,4
+19.4,37.6,19.4,Ionian Sea,4
+19.5,34.5,18,Ionian Sea,4
+19.5,35.1,18,Ionian Sea,4
+19.5,35.3,18.9,Ionian Sea,4
+19.5,36.1,18.1,Ionian Sea,4
+19.5,36.3,19.8,Ionian Sea,4
+19.5,39.5,17,Ionian Sea,4
+19.6,34.9,18.7,Ionian Sea,4
+19.6,36.4,18.8,Ionian Sea,4
+19.7,34.9,21,Ionian Sea,4
+19.8,34.5,21.1,Ionian Sea,4
+19.8,34.6,17,Ionian Sea,4
+19.8,34.9,17,Ionian Sea,4
+19.8,35,19,Ionian Sea,4
+19.8,35.8,20,Ionian Sea,4
+19.8,36.3,16,Ionian Sea,4
+19.8,36.6,19,Ionian Sea,4
+19.9,33.7,19,Ionian Sea,4
+19.9,34.9,21.2,Ionian Sea,4
+19.9,35,20,Ionian Sea,4
+19.9,35.1,19.7,Ionian Sea,4
+19.9,35.5,17.3,Ionian Sea,4
+20,34.3,17,Ionian Sea,4
+20,34.9,19,Ionian Sea,4
+20,35.3,18,Ionian Sea,4
+20,36.1,20,Ionian Sea,4
+20,37.4,15,Ionian Sea,4
+20.1,35,16.2,Ionian Sea,4
+20.1,39.4,17,Ionian Sea,4
+20.2,34.4,20,Ionian Sea,4
+20.2,34.9,17.9,Ionian Sea,4
+20.2,36.3,17,Ionian Sea,4
+20.2,36.4,19,Ionian Sea,4
+20.2,38.6,17,Ionian Sea,4
+20.3,34.5,20.3,Ionian Sea,4
+20.3,35,19.9,Ionian Sea,4
+20.3,38.2,18.4,Ionian Sea,4
+20.4,34.5,20,Ionian Sea,4
+20.4,34.7,19.6,Ionian Sea,4
+20.4,36,20.5,Ionian Sea,4
+20.4,36.3,20,Ionian Sea,4
+20.5,34.8,18,Ionian Sea,4
+20.6,34.7,18.5,Ionian Sea,4
+20.6,34.8,20,Ionian Sea,4
+20.6,36.1,17,Ionian Sea,4
+20.7,34.7,18,Ionian Sea,4
+20.7,34.8,17.1,Ionian Sea,4
+20.7,36.1,20.5,Ionian Sea,4
+20.7,36.2,17,Ionian Sea,4
+20.7,37.5,17,Ionian Sea,4
+20.8,34.1,22,Ionian Sea,4
+20.8,34.7,18.9,Ionian Sea,4
+20.9,34.6,19,Ionian Sea,4
+20.9,34.7,20.5,Ionian Sea,4
+20.9,36.1,19,Ionian Sea,4
+21,33.5,19.6,Ionian Sea,4
+21,34.2,21.6,Ionian Sea,4
+21,35.2,16,Ionian Sea,4
+21,35.3,19,Ionian Sea,4
+21,37,15,Ionian Sea,4
+21,37.1,19.7,Ionian Sea,4
+21.1,34.9,18.9,Ionian Sea,4
+21.1,37,17.5,Ionian Sea,4
+21.2,34.6,20,Ionian Sea,4
+21.2,35.1,20.4,Ionian Sea,4
+21.3,33.1,18,Ionian Sea,4
+21.3,34.5,18.5,Ionian Sea,4
+21.4,34.5,18.5,Ionian Sea,4
+21.5,34.2,18,Ionian Sea,4
+21.5,34.5,20,Ionian Sea,4
+21.6,34,20,Ionian Sea,4
+21.6,34.5,21.4,Ionian Sea,4
+21.6,34.9,18,Ionian Sea,4
+21.6,38.2,13,Ionian Sea,4
+21.7,33.8,22,Ionian Sea,4
+21.7,34.1,18,Ionian Sea,4
+21.8,34.6,16.6,Ionian Sea,4
+21.8,34.8,20,Ionian Sea,4
+21.8,36.5,20,Ionian Sea,4
+21.8,36.6,17,Ionian Sea,4
+21.9,33.4,19.5,Ionian Sea,4
+21.9,34.4,18.55,Ionian Sea,4
+21.9,34.5,21,Ionian Sea,4
+21.9,35.5,16,Ionian Sea,4
+21.9,35.7,18,Ionian Sea,4
+21.9,36.6,16,Ionian Sea,4
+22,33.7,16.5,Ionian Sea,4
+22,34.3,19,Ionian Sea,4
+22.1,34.3,17.6,Ionian Sea,4
+22.1,34.5,20,Ionian Sea,4
+22.2,34,20.2,Ionian Sea,4
+22.2,34.3,19.65,Ionian Sea,4
+22.2,35,16,Ionian Sea,4
+22.2,36.4,18,Ionian Sea,4
+22.3,34.2,20.3,Ionian Sea,4
+22.3,34.3,18.8,Ionian Sea,4
+22.5,33.5,18,Ionian Sea,4
+22.5,33.6,22,Ionian Sea,4
+22.5,34.2,18,Ionian Sea,4
+22.5,34.3,19.25,Ionian Sea,4
+22.6,33.9,20,Ionian Sea,4
+22.6,34.1,21,Ionian Sea,4
+22.6,34.2,19,Ionian Sea,4
+22.6,34.3,18.2,Ionian Sea,4
+22.6,34.4,18,Ionian Sea,4
+22.6,36.4,15,Ionian Sea,4
+22.7,35.2,20.6,Ionian Sea,4
+22.8,33.9,17,Ionian Sea,4
+22.8,34,19.4,Ionian Sea,4
+22.8,34.1,16,Ionian Sea,4
+22.8,34.2,19.25,Ionian Sea,4
+22.8,34.5,18.9,Ionian Sea,4
+22.8,36.6,17,Ionian Sea,4
+22.9,33.3,19.4,Aegean-Levantine Sea,5
+22.9,35.1,18,Ionian Sea,4
+22.9,35.2,15,Ionian Sea,4
+22.9,35.6,18.5,Ionian Sea,4
+22.9,35.9,17,Ionian Sea,4
+22.9,40.3,17,Aegean-Levantine Sea,5
+23,34.2,22,Ionian Sea,4
+23,40.2,16,Aegean-Levantine Sea,5
+23.1,34.1,18,Ionian Sea,4
+23.1,34.2,18.9,Ionian Sea,4
+23.1,40.1,15,Aegean-Levantine Sea,5
+23.2,34.2,17,Ionian Sea,4
+23.2,35.3,18.5,Ionian Sea,4
+23.3,33.3,17,Aegean-Levantine Sea,5
+23.3,33.4,15,Aegean-Levantine Sea,5
+23.3,33.7,20.9,Aegean-Levantine Sea,5
+23.3,34.2,17.6,Ionian Sea,4
+23.3,35,18.4,Ionian Sea,4
+23.3,39.5,16,Aegean-Levantine Sea,5
+23.4,32.6,18.3,Aegean-Levantine Sea,5
+23.4,33.7,17,Aegean-Levantine Sea,5
+23.4,33.9,18.9,Aegean-Levantine Sea,5
+23.4,34.5,19.1,Ionian Sea,4
+23.4,35.2,21,Ionian Sea,4
+23.4,35.7,18.2,Ionian Sea,4
+23.5,33.2,22,Aegean-Levantine Sea,5
+23.5,33.9,18,Aegean-Levantine Sea,5
+23.5,34,19.2,Aegean-Levantine Sea,5
+23.6,33.2,17.4,Aegean-Levantine Sea,5
+23.6,33.7,16,Aegean-Levantine Sea,5
+23.6,37.8,18,Aegean-Levantine Sea,5
+23.7,33.2,19.2,Aegean-Levantine Sea,5
+23.7,34.7,19.2,Ionian Sea,4
+23.7,37,15,Aegean-Levantine Sea,5
+23.7,37.6,17,Aegean-Levantine Sea,5
+23.7,37.7,18,Aegean-Levantine Sea,5
+23.8,33.9,17.5,Aegean-Levantine Sea,5
+23.8,34,18,Aegean-Levantine Sea,5
+23.9,33.7,18,Aegean-Levantine Sea,5
+23.9,33.9,17,Aegean-Levantine Sea,5
+23.9,34,21,Aegean-Levantine Sea,5
+23.9,34.5,19,Aegean-Levantine Sea,5
+23.9,34.7,16,Ionian Sea,4
+24,33.7,19,Aegean-Levantine Sea,5
+24.1,33.7,18.4,Aegean-Levantine Sea,5
+24.1,33.8,21,Aegean-Levantine Sea,5
+24.1,34.7,17,Aegean-Levantine Sea,5
+24.1,35,17,Aegean-Levantine Sea,5
+24.1,35.6,17,Aegean-Levantine Sea,5
+24.1,37.6,14,Aegean-Levantine Sea,5
+24.2,33.9,20,Aegean-Levantine Sea,5
+24.2,34,18.9,Aegean-Levantine Sea,5
+24.2,34.4,20,Aegean-Levantine Sea,5
+24.2,37.6,17,Aegean-Levantine Sea,5
+24.3,33.1,19.9,Aegean-Levantine Sea,5
+24.3,33.7,17.9,Aegean-Levantine Sea,5
+24.3,33.8,21.2,Aegean-Levantine Sea,5
+24.3,34.7,17.6,Aegean-Levantine Sea,5
+24.4,33.9,16.8,Aegean-Levantine Sea,5
+24.4,37.8,15.2,Aegean-Levantine Sea,5
+24.5,33.4,21.8,Aegean-Levantine Sea,5
+24.5,33.7,19.5,Aegean-Levantine Sea,5
+24.5,37.5,13.5,Aegean-Levantine Sea,5
+24.5,37.9,17,Aegean-Levantine Sea,5
+24.5,39.8,13,Aegean-Levantine Sea,5
+24.6,33.5,18,Aegean-Levantine Sea,5
+24.6,34.5,19,Aegean-Levantine Sea,5
+24.6,34.9,19,Aegean-Levantine Sea,5
+24.6,37.8,13,Aegean-Levantine Sea,5
+24.6,37.9,15,Aegean-Levantine Sea,5
+24.7,33.6,21.45,Aegean-Levantine Sea,5
+24.7,34.4,21.6,Aegean-Levantine Sea,5
+24.7,35.8,18,Aegean-Levantine Sea,5
+24.7,35.9,18,Aegean-Levantine Sea,5
+24.7,37.8,13,Aegean-Levantine Sea,5
+24.7,38,16,Aegean-Levantine Sea,5
+24.8,33.6,20.1,Aegean-Levantine Sea,5
+24.8,33.7,17.6,Aegean-Levantine Sea,5
+24.8,35.8,18,Aegean-Levantine Sea,5
+24.8,38,16,Aegean-Levantine Sea,5
+24.8,38.2,12,Aegean-Levantine Sea,5
+24.9,33.6,18.6,Aegean-Levantine Sea,5
+24.9,33.7,19.8,Aegean-Levantine Sea,5
+24.9,38,16,Aegean-Levantine Sea,5
+25,33.4,18,Aegean-Levantine Sea,5
+25,33.6,20,Aegean-Levantine Sea,5
+25,34.3,21.5,Aegean-Levantine Sea,5
+25,35.6,18,Aegean-Levantine Sea,5
+25.1,33.1,20.3,Aegean-Levantine Sea,5
+25.1,33.3,22,Aegean-Levantine Sea,5
+25.1,34.1,19,Aegean-Levantine Sea,5
+25.1,34.2,18.5,Aegean-Levantine Sea,5
+25.1,34.6,18,Aegean-Levantine Sea,5
+25.2,33.3,19,Aegean-Levantine Sea,5
+25.2,33.5,18,Aegean-Levantine Sea,5
+25.2,33.6,20,Aegean-Levantine Sea,5
+25.2,33.7,20,Aegean-Levantine Sea,5
+25.2,34.3,19,Aegean-Levantine Sea,5
+25.2,37.8,16.8,Aegean-Levantine Sea,5
+25.2,38.9,17,Aegean-Levantine Sea,5
+25.3,33.5,17.6,Aegean-Levantine Sea,5
+25.3,39.1,13,Aegean-Levantine Sea,5
+25.4,33.2,22,Aegean-Levantine Sea,5
+25.4,33.5,21,Aegean-Levantine Sea,5
+25.4,33.6,18.8,Aegean-Levantine Sea,5
+25.4,33.7,19,Aegean-Levantine Sea,5
+25.4,33.8,20.9,Aegean-Levantine Sea,5
+25.4,38,16.1,Aegean-Levantine Sea,5
+25.4,38.3,14,Aegean-Levantine Sea,5
+25.4,39,17.8,Aegean-Levantine Sea,5
+25.4,39.3,12,Aegean-Levantine Sea,5
+25.5,32.5,17.7,Aegean-Levantine Sea,5
+25.5,33.5,20,Aegean-Levantine Sea,5
+25.5,33.8,20,Aegean-Levantine Sea,5
+25.5,33.9,22.2,Aegean-Levantine Sea,5
+25.5,34.1,19.2,Aegean-Levantine Sea,5
+25.5,34.2,19.8,Aegean-Levantine Sea,5
+25.5,34.4,20.2,Aegean-Levantine Sea,5
+25.5,38,16.2,Aegean-Levantine Sea,5
+25.5,38.1,16.25,Aegean-Levantine Sea,5
+25.5,39.4,18,Aegean-Levantine Sea,5
+25.5,39.5,18,Aegean-Levantine Sea,5
+25.5,39.6,17,Aegean-Levantine Sea,5
+25.6,32.5,18,Aegean-Levantine Sea,5
+25.6,33.1,21,Aegean-Levantine Sea,5
+25.6,35.5,19.5,Aegean-Levantine Sea,5
+25.6,39.5,17,Aegean-Levantine Sea,5
+25.6,39.7,17.5,Aegean-Levantine Sea,5
+25.7,33.1,21.6,Aegean-Levantine Sea,5
+25.7,34.6,21,Aegean-Levantine Sea,5
+25.7,38.1,14.75,Aegean-Levantine Sea,5
+25.7,38.7,17,Aegean-Levantine Sea,5
+25.7,39.7,18,Aegean-Levantine Sea,5
+25.8,33.4,18,Aegean-Levantine Sea,5
+25.8,34.5,19.1,Aegean-Levantine Sea,5
+25.8,38.1,17,Aegean-Levantine Sea,5
+25.8,38.4,20,Aegean-Levantine Sea,5
+25.8,39.5,17,Aegean-Levantine Sea,5
+25.8,39.9,16,Aegean-Levantine Sea,5
+25.9,34.5,17,Aegean-Levantine Sea,5
+25.9,35.6,16,Aegean-Levantine Sea,5
+25.9,37.4,19,Aegean-Levantine Sea,5
+25.9,37.7,18,Aegean-Levantine Sea,5
+25.9,39.5,16,Aegean-Levantine Sea,5
+26,33.4,18,Aegean-Levantine Sea,5
+26,33.7,20,Aegean-Levantine Sea,5
+26,34,20,Aegean-Levantine Sea,5
+26,34.2,20,Aegean-Levantine Sea,5
+26,37.4,20,Aegean-Levantine Sea,5
+26,38,18.9,Aegean-Levantine Sea,5
+26,38.1,18,Aegean-Levantine Sea,5
+26,39.6,18,Aegean-Levantine Sea,5
+26,39.7,18,Aegean-Levantine Sea,5
+26,39.9,16,Aegean-Levantine Sea,5
+26.1,33.3,21.5,Aegean-Levantine Sea,5
+26.1,33.8,22,Aegean-Levantine Sea,5
+26.1,34,19,Aegean-Levantine Sea,5
+26.1,38.2,17,Aegean-Levantine Sea,5
+26.1,39.4,17,Aegean-Levantine Sea,5
+26.2,33.4,21,Aegean-Levantine Sea,5
+26.3,33.1,18,Aegean-Levantine Sea,5
+26.3,33.2,19.9,Aegean-Levantine Sea,5
+26.3,33.3,21.6,Aegean-Levantine Sea,5
+26.3,33.4,18.9,Aegean-Levantine Sea,5
+26.3,38.6,17.5,Aegean-Levantine Sea,5
+26.4,33,20.8,Aegean-Levantine Sea,5
+26.4,33.9,19.1,Aegean-Levantine Sea,5
+26.4,34.7,18.5,Aegean-Levantine Sea,5
+26.4,34.8,17.4,Aegean-Levantine Sea,5
+26.5,33.2,18.7,Aegean-Levantine Sea,5
+26.5,34.5,19,Aegean-Levantine Sea,5
+26.5,36.6,20,Aegean-Levantine Sea,5
+26.6,33.2,21.2,Aegean-Levantine Sea,5
+26.6,34.2,16,Aegean-Levantine Sea,5
+26.7,33,19,Aegean-Levantine Sea,5
+26.7,33.2,18,Aegean-Levantine Sea,5
+26.7,36.7,22,Aegean-Levantine Sea,5
+26.8,33.1,19,Aegean-Levantine Sea,5
+26.8,33.2,21,Aegean-Levantine Sea,5
+26.9,32.8,22.6,Aegean-Levantine Sea,5
+26.9,33.1,20.25,Aegean-Levantine Sea,5
+26.9,33.3,19,Aegean-Levantine Sea,5
+26.9,34.2,19,Aegean-Levantine Sea,5
+27,33,21.8,Aegean-Levantine Sea,5
+27,33.1,21.9,Aegean-Levantine Sea,5
+27.1,32.9,18,Aegean-Levantine Sea,5
+27.1,33,20,Aegean-Levantine Sea,5
+27.1,33.5,20.4,Aegean-Levantine Sea,5
+27.1,40.6,13,Aegean-Levantine Sea,5
+27.2,33,19,Aegean-Levantine Sea,5
+27.2,33.1,20.35,Aegean-Levantine Sea,5
+27.2,36,19,Aegean-Levantine Sea,5
+27.3,33,19.5,Aegean-Levantine Sea,5
+27.3,40.6,14,Aegean-Levantine Sea,5
+27.4,31.5,19,Aegean-Levantine Sea,5
+27.4,32.7,21,Aegean-Levantine Sea,5
+27.5,32.9,20.2,Aegean-Levantine Sea,5
+27.5,34,20,Aegean-Levantine Sea,5
+27.5,36,22,Aegean-Levantine Sea,5
+27.6,32.9,19.7,Aegean-Levantine Sea,5
+27.6,33,20,Aegean-Levantine Sea,5
+27.6,35.3,20,Aegean-Levantine Sea,5
+27.7,32.9,19.4,Aegean-Levantine Sea,5
+27.7,33.4,18.2,Aegean-Levantine Sea,5
+27.7,34.9,19,Aegean-Levantine Sea,5
+27.8,32.9,18,Aegean-Levantine Sea,5
+27.8,33,20.9,Aegean-Levantine Sea,5
+27.8,33.3,19.5,Aegean-Levantine Sea,5
+27.8,33.5,19,Aegean-Levantine Sea,5
+27.9,32.8,19.4,Aegean-Levantine Sea,5
+27.9,33.2,18.8,Aegean-Levantine Sea,5
+28,32.5,22,Aegean-Levantine Sea,5
+28,32.6,21.4,Aegean-Levantine Sea,5
+28,33.3,18,Aegean-Levantine Sea,5
+28,35.1,22,Aegean-Levantine Sea,5
+28.1,32.8,18.9,Aegean-Levantine Sea,5
+28.1,32.9,21,Aegean-Levantine Sea,5
+28.1,34,16,Aegean-Levantine Sea,5
+28.2,32.7,20,Aegean-Levantine Sea,5
+28.2,33.8,21,Aegean-Levantine Sea,5
+28.2,35.2,18.1,Aegean-Levantine Sea,5
+28.3,32.6,21.1,Aegean-Levantine Sea,5
+28.3,33,21,Aegean-Levantine Sea,5
+28.3,33.1,20,Aegean-Levantine Sea,5
+28.3,33.7,20.3,Aegean-Levantine Sea,5
+28.3,34,20,Aegean-Levantine Sea,5
+28.3,34.1,19,Aegean-Levantine Sea,5
+28.3,34.9,18.6,Aegean-Levantine Sea,5
+28.4,31.7,22,Aegean-Levantine Sea,5
+28.4,32.5,20,Aegean-Levantine Sea,5
+28.4,32.7,18,Aegean-Levantine Sea,5
+28.4,34,22,Aegean-Levantine Sea,5
+28.4,34.8,17.9,Aegean-Levantine Sea,5
+28.4,35,20,Aegean-Levantine Sea,5
+28.5,32.6,18,Aegean-Levantine Sea,5
+28.5,32.8,19,Aegean-Levantine Sea,5
+28.5,34.8,16.15,Aegean-Levantine Sea,5
+28.5,34.9,17.4,Aegean-Levantine Sea,5
+28.6,31.5,20,Aegean-Levantine Sea,5
+28.6,32.6,22,Aegean-Levantine Sea,5
+28.6,33,17,Aegean-Levantine Sea,5
+28.7,32.6,20,Aegean-Levantine Sea,5
+28.7,32.7,19,Aegean-Levantine Sea,5
+28.7,33.6,20,Aegean-Levantine Sea,5
+28.7,33.9,18,Aegean-Levantine Sea,5
+28.8,32.6,21,Aegean-Levantine Sea,5
+28.8,36.3,21,Aegean-Levantine Sea,5
+28.8,40.8,12,Aegean-Levantine Sea,5
+28.8,40.9,13,Aegean-Levantine Sea,5
+28.9,32.5,19.6,Aegean-Levantine Sea,5
+28.9,32.6,21.6,Aegean-Levantine Sea,5
+28.9,33,22,Aegean-Levantine Sea,5
+29,32.5,20.5,Aegean-Levantine Sea,5
+29,32.6,19.8,Aegean-Levantine Sea,5
+29.1,32.5,20.9,Aegean-Levantine Sea,5
+29.2,32.3,21.2,Aegean-Levantine Sea,5
+29.2,32.5,19,Aegean-Levantine Sea,5
+29.3,31,20,Aegean-Levantine Sea,5
+29.3,32.4,22,Aegean-Levantine Sea,5
+29.3,32.7,20.6,Aegean-Levantine Sea,5
+29.3,33.9,19.9,Aegean-Levantine Sea,5
+29.4,32.4,21.8,Aegean-Levantine Sea,5
+29.4,32.5,18.1,Aegean-Levantine Sea,5
+29.4,32.7,18.4,Aegean-Levantine Sea,5
+29.5,32.3,20,Aegean-Levantine Sea,5
+29.5,32.5,21,Aegean-Levantine Sea,5
+29.5,32.7,19.9,Aegean-Levantine Sea,5
+29.5,33.1,21,Aegean-Levantine Sea,5
+29.5,33.4,22,Aegean-Levantine Sea,5
+29.5,33.6,18,Aegean-Levantine Sea,5
+29.6,32.4,18,Aegean-Levantine Sea,5
+29.6,32.6,15,Aegean-Levantine Sea,5
+29.6,33.9,20,Aegean-Levantine Sea,5
+29.7,32.3,19.3,Aegean-Levantine Sea,5
+29.7,33.7,16,Aegean-Levantine Sea,5
+29.8,32.4,18.3,Aegean-Levantine Sea,5
+29.9,32.3,17.8,Aegean-Levantine Sea,5
+29.9,32.5,19.9,Aegean-Levantine Sea,5
+29.9,33.6,18.2,Aegean-Levantine Sea,5
+30,32.2,19.6,Aegean-Levantine Sea,5
+30,32.3,20,Aegean-Levantine Sea,5
+30.1,32.2,17.8,Aegean-Levantine Sea,5
+30.1,32.4,21,Aegean-Levantine Sea,5
+30.1,33.3,17.4,Aegean-Levantine Sea,5
+30.3,32.2,20,Aegean-Levantine Sea,5
+30.4,32,21.1,Aegean-Levantine Sea,5
+30.4,32.1,19.2,Aegean-Levantine Sea,5
+30.4,32.4,20.6,Aegean-Levantine Sea,5
+30.5,32,22,Aegean-Levantine Sea,5
+30.5,32.1,22,Aegean-Levantine Sea,5
+30.5,32.2,20,Aegean-Levantine Sea,5
+30.5,33,20.3,Aegean-Levantine Sea,5
+30.5,36.1,19.2,Aegean-Levantine Sea,5
+30.6,32.1,20.5,Aegean-Levantine Sea,5
+30.8,32,21,Aegean-Levantine Sea,5
+30.8,32.2,16,Aegean-Levantine Sea,5
+30.8,32.8,20,Aegean-Levantine Sea,5
+30.8,33,20,Aegean-Levantine Sea,5
+30.8,36.3,20.1,Aegean-Levantine Sea,5
+30.9,32.1,22,Aegean-Levantine Sea,5
+30.9,33.5,20,Aegean-Levantine Sea,5
+30.9,36.2,21,Aegean-Levantine Sea,5
+30.9,36.3,20.4,Aegean-Levantine Sea,5
+31,32.8,20.5,Aegean-Levantine Sea,5
+31,32.9,18,Aegean-Levantine Sea,5
+31.1,31.9,20.5,Aegean-Levantine Sea,5
+31.3,31.9,20.2,Aegean-Levantine Sea,5
+31.5,31.7,21.9,Aegean-Levantine Sea,5
+31.5,31.8,19,Aegean-Levantine Sea,5
+31.5,32,20,Aegean-Levantine Sea,5
+31.5,32.1,21,Aegean-Levantine Sea,5
+31.5,32.8,21,Aegean-Levantine Sea,5
+31.6,31.8,20,Aegean-Levantine Sea,5
+31.6,31.9,19,Aegean-Levantine Sea,5
+31.6,32.3,19,Aegean-Levantine Sea,5
+31.7,31.5,20.9,Aegean-Levantine Sea,5
+31.7,31.8,21,Aegean-Levantine Sea,5
+31.7,32.3,20,Aegean-Levantine Sea,5
+31.7,35.9,18.2,Aegean-Levantine Sea,5
+31.7,36,18.1,Aegean-Levantine Sea,5
+31.8,35.9,18.2,Aegean-Levantine Sea,5
+31.9,35.9,18.4,Aegean-Levantine Sea,5
+32,31.6,19,Aegean-Levantine Sea,5
+32,32.7,21.1,Aegean-Levantine Sea,5
+32,33.9,21.3,Aegean-Levantine Sea,5
+32,34,20.9,Aegean-Levantine Sea,5
+32,34.5,20.5,Aegean-Levantine Sea,5
+32,35.8,18.35,Aegean-Levantine Sea,5
+32.1,31.5,21.6,Aegean-Levantine Sea,5
+32.1,32.6,20,Aegean-Levantine Sea,5
+32.1,33.9,21.2,Aegean-Levantine Sea,5
+32.1,34,21,Aegean-Levantine Sea,5
+32.1,34.1,20.8,Aegean-Levantine Sea,5
+32.1,34.5,20.6,Aegean-Levantine Sea,5
+32.1,35.8,18.4,Aegean-Levantine Sea,5
+32.2,32.4,20.8,Aegean-Levantine Sea,5
+32.2,32.5,20.5,Aegean-Levantine Sea,5
+32.2,32.6,20.5,Aegean-Levantine Sea,5
+32.2,32.7,21,Aegean-Levantine Sea,5
+32.2,32.8,21.1,Aegean-Levantine Sea,5
+32.2,33.9,21.3,Aegean-Levantine Sea,5
+32.2,34.1,20.5,Aegean-Levantine Sea,5
+32.2,34.2,20.3,Aegean-Levantine Sea,5
+32.2,34.3,20,Aegean-Levantine Sea,5
+32.2,34.4,20,Aegean-Levantine Sea,5
+32.2,35.7,18.5,Aegean-Levantine Sea,5
+32.2,35.8,18.4,Aegean-Levantine Sea,5
+32.3,31.4,19.75,Aegean-Levantine Sea,5
+32.3,32.3,20.7,Aegean-Levantine Sea,5
+32.3,32.4,20.6,Aegean-Levantine Sea,5
+32.3,32.5,20.8,Aegean-Levantine Sea,5
+32.3,32.6,20.8,Aegean-Levantine Sea,5
+32.3,33.7,20.6,Aegean-Levantine Sea,5
+32.3,34.1,20.6,Aegean-Levantine Sea,5
+32.3,34.2,20.3,Aegean-Levantine Sea,5
+32.3,34.3,20.15,Aegean-Levantine Sea,5
+32.3,34.4,20.6,Aegean-Levantine Sea,5
+32.3,34.5,20,Aegean-Levantine Sea,5
+32.3,35.7,18.7,Aegean-Levantine Sea,5
+32.4,32.3,20.4,Aegean-Levantine Sea,5
+32.4,33.5,20.7,Aegean-Levantine Sea,5
+32.4,33.6,20.7,Aegean-Levantine Sea,5
+32.4,33.7,20.7,Aegean-Levantine Sea,5
+32.4,33.8,20.4,Aegean-Levantine Sea,5
+32.4,34.3,20.6,Aegean-Levantine Sea,5
+32.4,34.4,20.6,Aegean-Levantine Sea,5
+32.4,34.5,20,Aegean-Levantine Sea,5
+32.4,35.7,18.8,Aegean-Levantine Sea,5
+32.5,32.3,20.3,Aegean-Levantine Sea,5
+32.5,32.4,18,Aegean-Levantine Sea,5
+32.5,32.5,19.2,Aegean-Levantine Sea,5
+32.5,33.3,20.8,Aegean-Levantine Sea,5
+32.5,33.5,18.8,Aegean-Levantine Sea,5
+32.5,34.3,20.7,Aegean-Levantine Sea,5
+32.5,34.5,19.9,Aegean-Levantine Sea,5
+32.5,35.7,18.8,Aegean-Levantine Sea,5
+32.6,32.2,21.6,Aegean-Levantine Sea,5
+32.6,32.3,20.2,Aegean-Levantine Sea,5
+32.6,32.4,19.2,Aegean-Levantine Sea,5
+32.6,32.5,19.2,Aegean-Levantine Sea,5
+32.6,32.6,19.3,Aegean-Levantine Sea,5
+32.6,32.7,19.4,Aegean-Levantine Sea,5
+32.6,33.2,16,Aegean-Levantine Sea,5
+32.6,33.4,19,Aegean-Levantine Sea,5
+32.6,33.6,18.9,Aegean-Levantine Sea,5
+32.6,33.9,18.9,Aegean-Levantine Sea,5
+32.6,34.3,20.85,Aegean-Levantine Sea,5
+32.6,34.5,19.75,Aegean-Levantine Sea,5
+32.7,32.2,21.5,Aegean-Levantine Sea,5
+32.7,32.3,20.6,Aegean-Levantine Sea,5
+32.7,32.4,19,Aegean-Levantine Sea,5
+32.7,32.5,19.2,Aegean-Levantine Sea,5
+32.7,32.6,19.4,Aegean-Levantine Sea,5
+32.7,32.7,19.6,Aegean-Levantine Sea,5
+32.7,33.9,18.7,Aegean-Levantine Sea,5
+32.7,34.3,20.9,Aegean-Levantine Sea,5
+32.7,34.5,19.6,Aegean-Levantine Sea,5
+32.7,35.7,18.6,Aegean-Levantine Sea,5
+32.8,32.2,21.6,Aegean-Levantine Sea,5
+32.8,32.3,20.6,Aegean-Levantine Sea,5
+32.8,32.4,18.9,Aegean-Levantine Sea,5
+32.8,32.5,18.8,Aegean-Levantine Sea,5
+32.8,32.6,20,Aegean-Levantine Sea,5
+32.8,32.7,19.8,Aegean-Levantine Sea,5
+32.8,32.8,20,Aegean-Levantine Sea,5
+32.8,33,21,Aegean-Levantine Sea,5
+32.8,33.1,20.8,Aegean-Levantine Sea,5
+32.8,33.4,19.5,Aegean-Levantine Sea,5
+32.8,33.5,18.95,Aegean-Levantine Sea,5
+32.8,34.3,20.8,Aegean-Levantine Sea,5
+32.8,35.7,18.6,Aegean-Levantine Sea,5
+32.9,32.1,19.1,Aegean-Levantine Sea,5
+32.9,32.2,19.2,Aegean-Levantine Sea,5
+32.9,32.3,18.8,Aegean-Levantine Sea,5
+32.9,32.4,18.7,Aegean-Levantine Sea,5
+32.9,32.5,20.5,Aegean-Levantine Sea,5
+32.9,32.6,20.3,Aegean-Levantine Sea,5
+32.9,32.7,20.3,Aegean-Levantine Sea,5
+32.9,32.8,20.2,Aegean-Levantine Sea,5
+32.9,33.1,20.9,Aegean-Levantine Sea,5
+32.9,33.3,20.65,Aegean-Levantine Sea,5
+32.9,33.5,19.2,Aegean-Levantine Sea,5
+32.9,33.8,18.6,Aegean-Levantine Sea,5
+32.9,33.9,18.6,Aegean-Levantine Sea,5
+32.9,34.3,20.8,Aegean-Levantine Sea,5
+32.9,34.4,19.6,Aegean-Levantine Sea,5
+32.9,35.8,18.8,Aegean-Levantine Sea,5
+33,32.1,19.2,Aegean-Levantine Sea,5
+33,32.4,18.7,Aegean-Levantine Sea,5
+33,32.8,20.3,Aegean-Levantine Sea,5
+33,32.9,18.6,Aegean-Levantine Sea,5
+33,33,18.6,Aegean-Levantine Sea,5
+33,33.3,21.2,Aegean-Levantine Sea,5
+33,33.8,18.7,Aegean-Levantine Sea,5
+33,34,21.3,Aegean-Levantine Sea,5
+33,34.3,20.7,Aegean-Levantine Sea,5
+33,34.4,20.7,Aegean-Levantine Sea,5
+33,35.8,19,Aegean-Levantine Sea,5
+33,35.9,19.2,Aegean-Levantine Sea,5
+33.1,32,19,Aegean-Levantine Sea,5
+33.1,32.1,19.15,Aegean-Levantine Sea,5
+33.1,32.2,21.2,Aegean-Levantine Sea,5
+33.1,32.3,21.2,Aegean-Levantine Sea,5
+33.1,32.4,20.6,Aegean-Levantine Sea,5
+33.1,32.5,20.5,Aegean-Levantine Sea,5
+33.1,32.6,20.4,Aegean-Levantine Sea,5
+33.1,32.7,20.4,Aegean-Levantine Sea,5
+33.1,32.8,20.4,Aegean-Levantine Sea,5
+33.1,32.9,21,Aegean-Levantine Sea,5
+33.1,33,18.5,Aegean-Levantine Sea,5
+33.1,33.6,19.3,Aegean-Levantine Sea,5
+33.1,33.7,18.65,Aegean-Levantine Sea,5
+33.1,33.8,18.6,Aegean-Levantine Sea,5
+33.1,34.1,19.2,Aegean-Levantine Sea,5
+33.1,34.2,19.3,Aegean-Levantine Sea,5
+33.1,34.3,19.8,Aegean-Levantine Sea,5
+33.1,34.6,20.7,Aegean-Levantine Sea,5
+33.1,35.9,19.2,Aegean-Levantine Sea,5
+33.2,32,18.9,Aegean-Levantine Sea,5
+33.2,32.3,21.2,Aegean-Levantine Sea,5
+33.2,32.5,20.5,Aegean-Levantine Sea,5
+33.2,32.6,20.4,Aegean-Levantine Sea,5
+33.2,32.7,20.4,Aegean-Levantine Sea,5
+33.2,32.8,21,Aegean-Levantine Sea,5
+33.2,33.1,18.5,Aegean-Levantine Sea,5
+33.2,33.2,18.6,Aegean-Levantine Sea,5
+33.2,33.3,18.6,Aegean-Levantine Sea,5
+33.2,33.4,18.6,Aegean-Levantine Sea,5
+33.2,33.5,18.5,Aegean-Levantine Sea,5
+33.2,33.6,18.6,Aegean-Levantine Sea,5
+33.2,33.7,18.7,Aegean-Levantine Sea,5
+33.2,33.8,20.5,Aegean-Levantine Sea,5
+33.2,34,19.2,Aegean-Levantine Sea,5
+33.2,34.2,20.2,Aegean-Levantine Sea,5
+33.2,34.3,20,Aegean-Levantine Sea,5
+33.2,34.7,20.7,Aegean-Levantine Sea,5
+33.2,35.9,18.9,Aegean-Levantine Sea,5
+33.3,31.9,18.8,Aegean-Levantine Sea,5
+33.3,32,18.8,Aegean-Levantine Sea,5
+33.3,32.3,21.2,Aegean-Levantine Sea,5
+33.3,32.4,21.2,Aegean-Levantine Sea,5
+33.3,32.7,21,Aegean-Levantine Sea,5
+33.3,33.2,18.7,Aegean-Levantine Sea,5
+33.3,33.3,18.75,Aegean-Levantine Sea,5
+33.3,33.6,20,Aegean-Levantine Sea,5
+33.3,33.7,18.8,Aegean-Levantine Sea,5
+33.3,33.8,19,Aegean-Levantine Sea,5
+33.3,33.9,19.1,Aegean-Levantine Sea,5
+33.3,34.2,20.2,Aegean-Levantine Sea,5
+33.3,34.3,20.4,Aegean-Levantine Sea,5
+33.3,34.7,20.4,Aegean-Levantine Sea,5
+33.4,31.9,18.9,Aegean-Levantine Sea,5
+33.4,32.2,18,Aegean-Levantine Sea,5
+33.4,32.5,21.1,Aegean-Levantine Sea,5
+33.4,33.3,18.7,Aegean-Levantine Sea,5
+33.4,33.4,18.7,Aegean-Levantine Sea,5
+33.4,33.5,18.7,Aegean-Levantine Sea,5
+33.4,33.6,18.7,Aegean-Levantine Sea,5
+33.4,33.7,18.8,Aegean-Levantine Sea,5
+33.4,34.3,20,Aegean-Levantine Sea,5
+33.4,34.4,18,Aegean-Levantine Sea,5
+33.4,34.7,20.25,Aegean-Levantine Sea,5
+33.5,31.8,19.1,Aegean-Levantine Sea,5
+33.5,31.9,19.1,Aegean-Levantine Sea,5
+33.5,33.4,18.7,Aegean-Levantine Sea,5
+33.5,33.5,18.7,Aegean-Levantine Sea,5
+33.5,34.3,20,Aegean-Levantine Sea,5
+33.5,34.4,19.75,Aegean-Levantine Sea,5
+33.5,34.7,20.2,Aegean-Levantine Sea,5
+33.6,31.8,19,Aegean-Levantine Sea,5
+33.6,34.4,19.9,Aegean-Levantine Sea,5
+33.6,34.5,19.95,Aegean-Levantine Sea,5
+33.6,34.7,20.3,Aegean-Levantine Sea,5
+33.7,31.8,19.2,Aegean-Levantine Sea,5
+33.7,31.9,19.1,Aegean-Levantine Sea,5
+33.7,34.5,19.5,Aegean-Levantine Sea,5
+33.7,34.6,20,Aegean-Levantine Sea,5
+33.7,34.7,20.1,Aegean-Levantine Sea,5
+33.8,31.8,19.3,Aegean-Levantine Sea,5
+33.8,32.1,21.8,Aegean-Levantine Sea,5
+33.8,34.5,19.2,Aegean-Levantine Sea,5
+33.8,34.6,20,Aegean-Levantine Sea,5
+33.8,34.7,20.1,Aegean-Levantine Sea,5
+33.9,31.7,19.2,Aegean-Levantine Sea,5
+33.9,32,21.4,Aegean-Levantine Sea,5
+34,31.7,19.2,Aegean-Levantine Sea,5
+34,31.8,19.15,Aegean-Levantine Sea,5
+34,32,21.6,Aegean-Levantine Sea,5
+34,32.1,20.7,Aegean-Levantine Sea,5
+34,32.2,19.3,Aegean-Levantine Sea,5
+34,34.5,19.05,Aegean-Levantine Sea,5
+34,34.7,17.6,Aegean-Levantine Sea,5
+34,35.8,19.4,Aegean-Levantine Sea,5
+34,35.9,19.2,Aegean-Levantine Sea,5
+34,36.1,20.8,Aegean-Levantine Sea,5
+34.1,31.8,19.1,Aegean-Levantine Sea,5
+34.1,32.1,20.2,Aegean-Levantine Sea,5
+34.1,33,16,Aegean-Levantine Sea,5
+34.1,34.5,19.1,Aegean-Levantine Sea,5
+34.1,34.7,17.65,Aegean-Levantine Sea,5
+34.1,34.8,17.6,Aegean-Levantine Sea,5
+34.1,35.7,19.5,Aegean-Levantine Sea,5
+34.2,31.9,19.1,Aegean-Levantine Sea,5
+34.2,34.5,18.8,Aegean-Levantine Sea,5
+34.2,34.6,17.7,Aegean-Levantine Sea,5
+34.2,34.7,17.7,Aegean-Levantine Sea,5
+34.2,34.8,17.8,Aegean-Levantine Sea,5
+34.2,34.9,17.95,Aegean-Levantine Sea,5
+34.2,35.7,19.6,Aegean-Levantine Sea,5
+34.3,34.5,18.8,Aegean-Levantine Sea,5
+34.3,34.6,17.6,Aegean-Levantine Sea,5
+34.3,34.7,18.2,Aegean-Levantine Sea,5
+34.3,34.8,17.6,Aegean-Levantine Sea,5
+34.3,34.9,17.9,Aegean-Levantine Sea,5
+34.3,35.7,19.7,Aegean-Levantine Sea,5
+34.4,34.6,18.8,Aegean-Levantine Sea,5
+34.4,35.1,18.4,Aegean-Levantine Sea,5
+34.4,35.7,20,Aegean-Levantine Sea,5
+34.5,34.6,18.549999999999997,Aegean-Levantine Sea,5
+34.5,34.7,19,Aegean-Levantine Sea,5
+34.5,35,17.8,Aegean-Levantine Sea,5
+34.5,35.1,18.450000000000003,Aegean-Levantine Sea,5
+34.5,35.2,19.5,Aegean-Levantine Sea,5
+34.5,35.3,20,Aegean-Levantine Sea,5
+34.5,35.7,20,Aegean-Levantine Sea,5
+34.5,35.8,19.9,Aegean-Levantine Sea,5
+34.5,35.9,20.1,Aegean-Levantine Sea,5
+34.6,34.6,19.2,Aegean-Levantine Sea,5
+34.6,34.7,18.7,Aegean-Levantine Sea,5
+34.6,36,20,Aegean-Levantine Sea,5
+34.7,34.6,18.6,Aegean-Levantine Sea,5
+34.7,34.7,18.4,Aegean-Levantine Sea,5
+34.7,34.9,18.1,Aegean-Levantine Sea,5
+34.7,36,20.05,Aegean-Levantine Sea,5
+34.8,34.1,20.1,Aegean-Levantine Sea,5
+34.8,34.2,20.299999999999997,Aegean-Levantine Sea,5
+34.8,34.6,18.5,Aegean-Levantine Sea,5
+34.8,34.7,18.6,Aegean-Levantine Sea,5
+34.8,35.5,17.3,Aegean-Levantine Sea,5
+34.8,36,20.2,Aegean-Levantine Sea,5
+34.8,36.3,20.2,Aegean-Levantine Sea,5
+34.9,34.1,19,Aegean-Levantine Sea,5
+34.9,34.2,19.6,Aegean-Levantine Sea,5
+34.9,35.9,20.4,Aegean-Levantine Sea,5
+35,35.5,20.5,Aegean-Levantine Sea,5
+35,35.8,20.3,Aegean-Levantine Sea,5
+35,35.9,20.4,Aegean-Levantine Sea,5
+35.1,34.9,20.4,Aegean-Levantine Sea,5
+35.1,35,20.4,Aegean-Levantine Sea,5
+35.1,35.1,20.2,Aegean-Levantine Sea,5
+35.1,35.2,20.5,Aegean-Levantine Sea,5
+35.1,35.6,19.95,Aegean-Levantine Sea,5
+35.1,35.7,18.7,Aegean-Levantine Sea,5
+35.2,34.8,20.4,Aegean-Levantine Sea,5
+35.2,34.9,20.4,Aegean-Levantine Sea,5
+35.2,35.2,20.4,Aegean-Levantine Sea,5
+35.2,35.3,20.4,Aegean-Levantine Sea,5
+35.2,35.4,20.3,Aegean-Levantine Sea,5
+35.2,35.5,19.8,Aegean-Levantine Sea,5
+35.2,35.7,20.1,Aegean-Levantine Sea,5
+35.3,34.8,17.8,Aegean-Levantine Sea,5
+35.3,35.4,20.4,Aegean-Levantine Sea,5
+35.3,35.5,20.3,Aegean-Levantine Sea,5
+35.3,35.6,20.1,Aegean-Levantine Sea,5
+35.4,34.5,19.1,Aegean-Levantine Sea,5
+35.4,35.1,18.5,Aegean-Levantine Sea,5
+35.5,34.8,19.5,Aegean-Levantine Sea,5
+35.8,34.9,21.5,Aegean-Levantine Sea,5
