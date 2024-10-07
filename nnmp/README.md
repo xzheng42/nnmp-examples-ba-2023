@@ -17,6 +17,6 @@ Main functions of the package are `nnmp` and `predict.nnmp`:
 
 Detailed guidelines for using the functions are referred to their help pages in R. 
 R scripts to reproduce results in the paper are available in [*data-examples/*](https://github.com/xzheng42/nnmp-examples-ba-2023/tree/main/data-examples)
-with instructions available in [*nnmp-examples-ba-2003*](https://github.com/xzheng42/nnmp-examples-ba-2023/).
+with instructions available in [*nnmp-examples-ba-2023*](https://github.com/xzheng42/nnmp-examples-ba-2023/).
 
 Notes: The current version was tested on macOS 10.15.7 under R version 4.2.2 and on Fedora Linux 38 under R versions 4.1.3 and 4.3.2.
